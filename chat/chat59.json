@@ -1,0 +1,6589 @@
+{
+  "messages": [
+    {
+      "id": 172496,
+      "type": "message",
+      "date": "2024-10-13T13:12:07",
+      "date_unixtime": "1728805327",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Everything is double the amount",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Everything is double the amount"
+        }
+      ]
+    },
+    {
+      "id": 172497,
+      "type": "message",
+      "date": "2024-10-13T13:12:15",
+      "date_unixtime": "1728805335",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Mostly by last week of the month I am broke",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Mostly by last week of the month I am broke"
+        }
+      ]
+    },
+    {
+      "id": 172498,
+      "type": "message",
+      "date": "2024-10-13T13:12:56",
+      "date_unixtime": "1728805376",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Bus charge also for one time travel it's 12rs\nI use bus at least 2-4 times everyday \ud83e\udd72\ud83e\udd72",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bus charge also for one time travel it's 12rs\nI use bus at least 2-4 times everyday \ud83e\udd72\ud83e\udd72"
+        }
+      ]
+    },
+    {
+      "id": 172499,
+      "type": "message",
+      "date": "2024-10-13T13:13:26",
+      "date_unixtime": "1728805406",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For bus itself I spend more than 1k per month",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For bus itself I spend more than 1k per month"
+        }
+      ]
+    },
+    {
+      "id": 172500,
+      "type": "message",
+      "date": "2024-10-13T13:13:56",
+      "date_unixtime": "1728805436",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So like around 25k a month",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So like around 25k a month"
+        }
+      ]
+    },
+    {
+      "id": 172501,
+      "type": "message",
+      "date": "2024-10-13T13:14:05",
+      "date_unixtime": "1728805445",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 172502,
+      "type": "message",
+      "date": "2024-10-13T13:14:15",
+      "date_unixtime": "1728805455",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And how much is the tuition fee?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And how much is the tuition fee?"
+        }
+      ]
+    },
+    {
+      "id": 172503,
+      "type": "message",
+      "date": "2024-10-13T13:14:23",
+      "date_unixtime": "1728805463",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "There are people here that spend 35 too\nBut I don't",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "There are people here that spend 35 too\nBut I don't"
+        }
+      ]
+    },
+    {
+      "id": 172504,
+      "type": "message",
+      "date": "2024-10-13T13:14:35",
+      "date_unixtime": "1728805475",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172502,
+      "text": "Let me calculate",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Let me calculate"
+        }
+      ]
+    },
+    {
+      "id": 172505,
+      "type": "message",
+      "date": "2024-10-13T13:17:04",
+      "date_unixtime": "1728805624",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "2 lakh 80 thousand",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "2 lakh 80 thousand"
+        }
+      ]
+    },
+    {
+      "id": 172506,
+      "type": "message",
+      "date": "2024-10-13T13:17:19",
+      "date_unixtime": "1728805639",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172505,
+      "text": "For one year",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For one year"
+        }
+      ]
+    },
+    {
+      "id": 172507,
+      "type": "message",
+      "date": "2024-10-13T13:18:23",
+      "date_unixtime": "1728805703",
+      "edited": "2024-10-13T13:18:37",
+      "edited_unixtime": "1728805717",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I divide it into two and pay for every semester \nLike 5-6months once",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I divide it into two and pay for every semester \nLike 5-6months once"
+        }
+      ]
+    },
+    {
+      "id": 172508,
+      "type": "message",
+      "date": "2024-10-13T13:19:30",
+      "date_unixtime": "1728805770",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ohkk",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ohkk"
+        }
+      ]
+    },
+    {
+      "id": 172509,
+      "type": "message",
+      "date": "2024-10-13T13:19:53",
+      "date_unixtime": "1728805793",
+      "edited": "2024-10-13T13:20:03",
+      "edited_unixtime": "1728805803",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Real university fees is 2lakhs only\nThat 80k is taken by indian agency for commission \nBut even after fighting they don't agree they take it\nWe pay it without having any choice",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Real university fees is 2lakhs only\nThat 80k is taken by indian agency for commission \nBut even after fighting they don't agree they take it\nWe pay it without having any choice"
+        }
+      ]
+    },
+    {
+      "id": 172510,
+      "type": "message",
+      "date": "2024-10-13T13:20:24",
+      "date_unixtime": "1728805824",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So per month it costs around 50k right",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So per month it costs around 50k right"
+        }
+      ]
+    },
+    {
+      "id": 172511,
+      "type": "message",
+      "date": "2024-10-13T13:20:41",
+      "date_unixtime": "1728805841",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "If we break it down",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If we break it down"
+        }
+      ]
+    },
+    {
+      "id": 172512,
+      "type": "message",
+      "date": "2024-10-13T13:20:47",
+      "date_unixtime": "1728805847",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Then for flight ticket every yr\nGoing and coming back\nAlmost 45k \nAltogether",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then for flight ticket every yr\nGoing and coming back\nAlmost 45k \nAltogether"
+        }
+      ]
+    },
+    {
+      "id": 172513,
+      "type": "message",
+      "date": "2024-10-13T13:20:57",
+      "date_unixtime": "1728805857",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Hnn",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hnn"
+        }
+      ]
+    },
+    {
+      "id": 172514,
+      "type": "message",
+      "date": "2024-10-13T13:20:57",
+      "date_unixtime": "1728805857",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "50k",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "50k"
+        }
+      ]
+    },
+    {
+      "id": 172515,
+      "type": "message",
+      "date": "2024-10-13T13:21:18",
+      "date_unixtime": "1728805878",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am very expensive \ud83d\ude1e",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am very expensive \ud83d\ude1e"
+        }
+      ]
+    },
+    {
+      "id": 172516,
+      "type": "message",
+      "date": "2024-10-13T13:21:28",
+      "date_unixtime": "1728805888",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All my dad's money",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All my dad's money"
+        }
+      ]
+    },
+    {
+      "id": 172517,
+      "type": "message",
+      "date": "2024-10-13T13:21:34",
+      "date_unixtime": "1728805894",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I'm drinking",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'm drinking"
+        }
+      ]
+    },
+    {
+      "id": 172518,
+      "type": "message",
+      "date": "2024-10-13T13:21:43",
+      "date_unixtime": "1728805903",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172517,
+      "text": "What?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "What?"
+        }
+      ]
+    },
+    {
+      "id": 172519,
+      "type": "message",
+      "date": "2024-10-13T13:21:46",
+      "date_unixtime": "1728805906",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Vodka??",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Vodka??"
+        }
+      ]
+    },
+    {
+      "id": 172520,
+      "type": "message",
+      "date": "2024-10-13T13:21:49",
+      "date_unixtime": "1728805909",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172521,
+      "type": "message",
+      "date": "2024-10-13T13:21:59",
+      "date_unixtime": "1728805919",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Drinking my dad's money \ud83d\ude42",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Drinking my dad's money \ud83d\ude42"
+        }
+      ]
+    },
+    {
+      "id": 172522,
+      "type": "message",
+      "date": "2024-10-13T13:22:04",
+      "date_unixtime": "1728805924",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172523,
+      "type": "message",
+      "date": "2024-10-13T13:22:14",
+      "date_unixtime": "1728805934",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Is your brother in govt college?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Is your brother in govt college?"
+        }
+      ]
+    },
+    {
+      "id": 172524,
+      "type": "message",
+      "date": "2024-10-13T13:22:27",
+      "date_unixtime": "1728805947",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "No",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 172525,
+      "type": "message",
+      "date": "2024-10-13T13:22:39",
+      "date_unixtime": "1728805959",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Self finance",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Self finance"
+        }
+      ]
+    },
+    {
+      "id": 172526,
+      "type": "message",
+      "date": "2024-10-13T13:22:53",
+      "date_unixtime": "1728805973",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Means?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Means?"
+        }
+      ]
+    },
+    {
+      "id": 172527,
+      "type": "message",
+      "date": "2024-10-13T13:22:56",
+      "date_unixtime": "1728805976",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For him I think 5 lakhs per yr",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For him I think 5 lakhs per yr"
+        }
+      ]
+    },
+    {
+      "id": 172528,
+      "type": "message",
+      "date": "2024-10-13T13:22:58",
+      "date_unixtime": "1728805978",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Semi govt?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Semi govt?"
+        }
+      ]
+    },
+    {
+      "id": 172529,
+      "type": "message",
+      "date": "2024-10-13T13:23:03",
+      "date_unixtime": "1728805983",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172528,
+      "text": "Something like that",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Something like that"
+        }
+      ]
+    },
+    {
+      "id": 172530,
+      "type": "message",
+      "date": "2024-10-13T13:23:11",
+      "date_unixtime": "1728805991",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172527,
+      "text": "Yeah then it is semi govt",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah then it is semi govt"
+        }
+      ]
+    },
+    {
+      "id": 172531,
+      "type": "message",
+      "date": "2024-10-13T13:23:34",
+      "date_unixtime": "1728806014",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Excluding accomodations it's 5 lakhs",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Excluding accomodations it's 5 lakhs"
+        }
+      ]
+    },
+    {
+      "id": 172532,
+      "type": "message",
+      "date": "2024-10-13T13:23:38",
+      "date_unixtime": "1728806018",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Have u taken a student loan?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Have u taken a student loan?"
+        }
+      ]
+    },
+    {
+      "id": 172533,
+      "type": "message",
+      "date": "2024-10-13T13:23:54",
+      "date_unixtime": "1728806034",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172532,
+      "text": "They don't provide me a proper fee receipt to take a loan",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They don't provide me a proper fee receipt to take a loan"
+        }
+      ]
+    },
+    {
+      "id": 172534,
+      "type": "message",
+      "date": "2024-10-13T13:24:02",
+      "date_unixtime": "1728806042",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Because they scam that 80k",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Because they scam that 80k"
+        }
+      ]
+    },
+    {
+      "id": 172535,
+      "type": "message",
+      "date": "2024-10-13T13:24:04",
+      "date_unixtime": "1728806044",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172531,
+      "text": "That's very less actually, if not govt college",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's very less actually, if not govt college"
+        }
+      ]
+    },
+    {
+      "id": 172536,
+      "type": "message",
+      "date": "2024-10-13T13:24:06",
+      "date_unixtime": "1728806046",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They can't give to us",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They can't give to us"
+        }
+      ]
+    },
+    {
+      "id": 172537,
+      "type": "message",
+      "date": "2024-10-13T13:25:07",
+      "date_unixtime": "1728806107",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Because if they give fee receipt",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Because if they give fee receipt"
+        }
+      ]
+    },
+    {
+      "id": 172538,
+      "type": "message",
+      "date": "2024-10-13T13:25:11",
+      "date_unixtime": "1728806111",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They will be caught",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They will be caught"
+        }
+      ]
+    },
+    {
+      "id": 172539,
+      "type": "message",
+      "date": "2024-10-13T13:25:21",
+      "date_unixtime": "1728806121",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That they are scamming that 80k",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That they are scamming that 80k"
+        }
+      ]
+    },
+    {
+      "id": 172540,
+      "type": "message",
+      "date": "2024-10-13T13:25:30",
+      "date_unixtime": "1728806130",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "From first yr I am requesting fees receipt",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "From first yr I am requesting fees receipt"
+        }
+      ]
+    },
+    {
+      "id": 172541,
+      "type": "message",
+      "date": "2024-10-13T13:26:01",
+      "date_unixtime": "1728806161",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172535,
+      "text": "Some of my ex classmates are studying for 14-15L annually",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Some of my ex classmates are studying for 14-15L annually"
+        }
+      ]
+    },
+    {
+      "id": 172542,
+      "type": "message",
+      "date": "2024-10-13T13:26:25",
+      "date_unixtime": "1728806185",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172541,
+      "text": "Even mine",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Even mine"
+        }
+      ]
+    },
+    {
+      "id": 172543,
+      "type": "message",
+      "date": "2024-10-13T13:26:34",
+      "date_unixtime": "1728806194",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "In fees receipt",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "In fees receipt"
+        }
+      ]
+    },
+    {
+      "id": 172544,
+      "type": "message",
+      "date": "2024-10-13T13:26:48",
+      "date_unixtime": "1728806208",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "There will be how much fees we paid right",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "There will be how much fees we paid right"
+        }
+      ]
+    },
+    {
+      "id": 172545,
+      "type": "message",
+      "date": "2024-10-13T13:26:52",
+      "date_unixtime": "1728806212",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "If we got from university",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If we got from university"
+        }
+      ]
+    },
+    {
+      "id": 172546,
+      "type": "message",
+      "date": "2024-10-13T13:26:56",
+      "date_unixtime": "1728806216",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Yeah",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah"
+        }
+      ]
+    },
+    {
+      "id": 172547,
+      "type": "message",
+      "date": "2024-10-13T13:27:07",
+      "date_unixtime": "1728806227",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That's why they don't give us I think",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why they don't give us I think"
+        }
+      ]
+    },
+    {
+      "id": 172548,
+      "type": "message",
+      "date": "2024-10-13T13:27:23",
+      "date_unixtime": "1728806243",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They will be caught \nBecause only 2lakhs will be on receipt",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They will be caught \nBecause only 2lakhs will be on receipt"
+        }
+      ]
+    },
+    {
+      "id": 172549,
+      "type": "message",
+      "date": "2024-10-13T13:27:23",
+      "date_unixtime": "1728806243",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Won't your college directly provide?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Won't your college directly provide?"
+        }
+      ]
+    },
+    {
+      "id": 172550,
+      "type": "message",
+      "date": "2024-10-13T13:27:29",
+      "date_unixtime": "1728806249",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Then we will ask that 80k",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then we will ask that 80k"
+        }
+      ]
+    },
+    {
+      "id": 172551,
+      "type": "message",
+      "date": "2024-10-13T13:28:10",
+      "date_unixtime": "1728806290",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172549,
+      "text": "No \nThey tell to ask agency only",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No \nThey tell to ask agency only"
+        }
+      ]
+    },
+    {
+      "id": 172552,
+      "type": "message",
+      "date": "2024-10-13T13:28:21",
+      "date_unixtime": "1728806301",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They also support the agency",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They also support the agency"
+        }
+      ]
+    },
+    {
+      "id": 172553,
+      "type": "message",
+      "date": "2024-10-13T13:28:29",
+      "date_unixtime": "1728806309",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "What to do\ud83d\ude35\u200d\ud83d\udcab",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "What to do\ud83d\ude35\u200d\ud83d\udcab"
+        }
+      ]
+    },
+    {
+      "id": 172554,
+      "type": "message",
+      "date": "2024-10-13T13:28:40",
+      "date_unixtime": "1728806320",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Anyway 4 more yrs \nIncluding now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Anyway 4 more yrs \nIncluding now"
+        }
+      ]
+    },
+    {
+      "id": 172555,
+      "type": "message",
+      "date": "2024-10-13T13:28:51",
+      "date_unixtime": "1728806331",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "My vro will complete in one yr",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "My vro will complete in one yr"
+        }
+      ]
+    },
+    {
+      "id": 172556,
+      "type": "message",
+      "date": "2024-10-13T13:29:08",
+      "date_unixtime": "1728806348",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Then dad will get little free and might have little more money",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then dad will get little free and might have little more money"
+        }
+      ]
+    },
+    {
+      "id": 172557,
+      "type": "message",
+      "date": "2024-10-13T13:29:08",
+      "date_unixtime": "1728806348",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Hopefully",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hopefully"
+        }
+      ]
+    },
+    {
+      "id": 172558,
+      "type": "message",
+      "date": "2024-10-13T13:29:32",
+      "date_unixtime": "1728806372",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ha",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ha"
+        }
+      ]
+    },
+    {
+      "id": 172559,
+      "type": "message",
+      "date": "2024-10-13T13:29:56",
+      "date_unixtime": "1728806396",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So basically all the expenses are on salary and savings right?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So basically all the expenses are on salary and savings right?"
+        }
+      ]
+    },
+    {
+      "id": 172560,
+      "type": "message",
+      "date": "2024-10-13T13:30:02",
+      "date_unixtime": "1728806402",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 172561,
+      "type": "message",
+      "date": "2024-10-13T13:30:11",
+      "date_unixtime": "1728806411",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Your dad is in Titan right?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Your dad is in Titan right?"
+        }
+      ]
+    },
+    {
+      "id": 172562,
+      "type": "message",
+      "date": "2024-10-13T13:30:15",
+      "date_unixtime": "1728806415",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 172563,
+      "type": "message",
+      "date": "2024-10-13T13:30:25",
+      "date_unixtime": "1728806425",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Mom is not working",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Mom is not working"
+        }
+      ]
+    },
+    {
+      "id": 172564,
+      "type": "message",
+      "date": "2024-10-13T13:30:27",
+      "date_unixtime": "1728806427",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "id": 172565,
+      "type": "message",
+      "date": "2024-10-13T13:30:33",
+      "date_unixtime": "1728806433",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "How much is his salary btw?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "How much is his salary btw?"
+        }
+      ]
+    },
+    {
+      "id": 172566,
+      "type": "message",
+      "date": "2024-10-13T13:30:41",
+      "date_unixtime": "1728806441",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172563,
+      "text": "What happened?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "What happened?"
+        }
+      ]
+    },
+    {
+      "id": 172567,
+      "type": "message",
+      "date": "2024-10-13T13:30:47",
+      "date_unixtime": "1728806447",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Any reason or",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Any reason or"
+        }
+      ]
+    },
+    {
+      "id": 172568,
+      "type": "message",
+      "date": "2024-10-13T13:30:51",
+      "date_unixtime": "1728806451",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172566,
+      "text": "She doesn't want to work",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "She doesn't want to work"
+        }
+      ]
+    },
+    {
+      "id": 172569,
+      "type": "message",
+      "date": "2024-10-13T13:30:55",
+      "date_unixtime": "1728806455",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172568,
+      "text": "Ohkk",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ohkk"
+        }
+      ]
+    },
+    {
+      "id": 172570,
+      "type": "message",
+      "date": "2024-10-13T13:31:25",
+      "date_unixtime": "1728806485",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172569,
+      "text": "And I fought with her to work",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And I fought with her to work"
+        }
+      ]
+    },
+    {
+      "id": 172571,
+      "type": "message",
+      "date": "2024-10-13T13:31:39",
+      "date_unixtime": "1728806499",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I forced her",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I forced her"
+        }
+      ]
+    },
+    {
+      "id": 172572,
+      "type": "message",
+      "date": "2024-10-13T13:31:43",
+      "date_unixtime": "1728806503",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "This holiday",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "This holiday"
+        }
+      ]
+    },
+    {
+      "id": 172573,
+      "type": "message",
+      "date": "2024-10-13T13:31:46",
+      "date_unixtime": "1728806506",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Because of this matter",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Because of this matter"
+        }
+      ]
+    },
+    {
+      "id": 172574,
+      "type": "message",
+      "date": "2024-10-13T13:31:53",
+      "date_unixtime": "1728806513",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I and my mom didn't speak for few days",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I and my mom didn't speak for few days"
+        }
+      ]
+    },
+    {
+      "id": 172575,
+      "type": "message",
+      "date": "2024-10-13T13:31:59",
+      "date_unixtime": "1728806519",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "She thinks I disrespected her",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "She thinks I disrespected her"
+        }
+      ]
+    },
+    {
+      "id": 172576,
+      "type": "message",
+      "date": "2024-10-13T13:32:01",
+      "date_unixtime": "1728806521",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude2d\ud83d\ude2d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2d\ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "id": 172577,
+      "type": "message",
+      "date": "2024-10-13T13:32:07",
+      "date_unixtime": "1728806527",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I think I was selfish too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I think I was selfish too"
+        }
+      ]
+    },
+    {
+      "id": 172578,
+      "type": "message",
+      "date": "2024-10-13T13:32:11",
+      "date_unixtime": "1728806531",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For some extra money",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For some extra money"
+        }
+      ]
+    },
+    {
+      "id": 172579,
+      "type": "message",
+      "date": "2024-10-13T13:32:24",
+      "date_unixtime": "1728806544",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172580,
+      "type": "message",
+      "date": "2024-10-13T13:32:42",
+      "date_unixtime": "1728806562",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Does your brother has student or edu loan?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Does your brother has student or edu loan?"
+        }
+      ]
+    },
+    {
+      "id": 172581,
+      "type": "message",
+      "date": "2024-10-13T13:32:49",
+      "date_unixtime": "1728806569",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172580,
+      "text": "I don't know about that",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I don't know about that"
+        }
+      ]
+    },
+    {
+      "id": 172582,
+      "type": "message",
+      "date": "2024-10-13T13:33:24",
+      "date_unixtime": "1728806604",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But financial condition in my home is very bad",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But financial condition in my home is very bad"
+        }
+      ]
+    },
+    {
+      "id": 172583,
+      "type": "message",
+      "date": "2024-10-13T13:33:56",
+      "date_unixtime": "1728806636",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "My dad joined me for payment seat because my agency promised fee receipt before admission \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "My dad joined me for payment seat because my agency promised fee receipt before admission \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172584,
+      "type": "message",
+      "date": "2024-10-13T13:34:10",
+      "date_unixtime": "1728806650",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "So my father planned my financial things in a different way",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So my father planned my financial things in a different way"
+        }
+      ]
+    },
+    {
+      "id": 172585,
+      "type": "message",
+      "date": "2024-10-13T13:34:21",
+      "date_unixtime": "1728806661",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Paying from his own pocket was not his idea",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Paying from his own pocket was not his idea"
+        }
+      ]
+    },
+    {
+      "id": 172586,
+      "type": "message",
+      "date": "2024-10-13T13:34:26",
+      "date_unixtime": "1728806666",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But now he is doing it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But now he is doing it"
+        }
+      ]
+    },
+    {
+      "id": 172587,
+      "type": "message",
+      "date": "2024-10-13T13:34:36",
+      "date_unixtime": "1728806676",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For me\ud83e\udd7a",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For me\ud83e\udd7a"
+        }
+      ]
+    },
+    {
+      "id": 172588,
+      "type": "message",
+      "date": "2024-10-13T13:35:46",
+      "date_unixtime": "1728806746",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172583,
+      "text": "In education loan I would have got one lakh from bank\nSo my dad had to pay just one more lakh\nThis was the plan \nBut finally they don't give fee receipt and also scamming the 80k \ud83d\ude02 so now he is paying 2lakhs 80k for tuition \nIt was not in his plan",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "In education loan I would have got one lakh from bank\nSo my dad had to pay just one more lakh\nThis was the plan \nBut finally they don't give fee receipt and also scamming the 80k \ud83d\ude02 so now he is paying 2lakhs 80k for tuition \nIt was not in his plan"
+        }
+      ]
+    },
+    {
+      "id": 172589,
+      "type": "message",
+      "date": "2024-10-13T13:36:09",
+      "date_unixtime": "1728806769",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Yeah I can imagine the difficulty",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah I can imagine the difficulty"
+        }
+      ]
+    },
+    {
+      "id": 172590,
+      "type": "message",
+      "date": "2024-10-13T13:36:35",
+      "date_unixtime": "1728806795",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Especially if your brother doesn't have a student loan either",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Especially if your brother doesn't have a student loan either"
+        }
+      ]
+    },
+    {
+      "id": 172591,
+      "type": "message",
+      "date": "2024-10-13T13:36:54",
+      "date_unixtime": "1728806814",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "And mom is not working",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And mom is not working"
+        }
+      ]
+    },
+    {
+      "id": 172592,
+      "type": "message",
+      "date": "2024-10-13T13:37:11",
+      "date_unixtime": "1728806831",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Although she is supporting\nTaking care of us\ud83d\ude2d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Although she is supporting\nTaking care of us\ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "id": 172593,
+      "type": "message",
+      "date": "2024-10-13T13:37:21",
+      "date_unixtime": "1728806841",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I hope she works and get some money",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I hope she works and get some money"
+        }
+      ]
+    },
+    {
+      "id": 172594,
+      "type": "message",
+      "date": "2024-10-13T13:38:08",
+      "date_unixtime": "1728806888",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Whatever I ask my dad tells understand the situation \nThen I can't ask mom also because she doesn't have money she doesn't work",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Whatever I ask my dad tells understand the situation \nThen I can't ask mom also because she doesn't have money she doesn't work"
+        }
+      ]
+    },
+    {
+      "id": 172595,
+      "type": "message",
+      "date": "2024-10-13T13:38:21",
+      "date_unixtime": "1728806901",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Then when I tell her to work \nShe thinks I disrespected her",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then when I tell her to work \nShe thinks I disrespected her"
+        }
+      ]
+    },
+    {
+      "id": 172596,
+      "type": "message",
+      "date": "2024-10-13T13:38:38",
+      "date_unixtime": "1728806918",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "And because of this issue she didn't talk to me for a few days",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And because of this issue she didn't talk to me for a few days"
+        }
+      ]
+    },
+    {
+      "id": 172597,
+      "type": "message",
+      "date": "2024-10-13T13:38:54",
+      "date_unixtime": "1728806934",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "That's why I'm trying hard for a placement job, even though parents are saying to go for higher studies",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why I'm trying hard for a placement job, even though parents are saying to go for higher studies"
+        }
+      ]
+    },
+    {
+      "id": 172598,
+      "type": "message",
+      "date": "2024-10-13T13:38:59",
+      "date_unixtime": "1728806939",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Not like I don't want to",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Not like I don't want to"
+        }
+      ]
+    },
+    {
+      "id": 172599,
+      "type": "message",
+      "date": "2024-10-13T13:39:28",
+      "date_unixtime": "1728806968",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And the thing they say is correct, higher studies is only possible if done right now, if there's a break, then that's not possible, it won't be easy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And the thing they say is correct, higher studies is only possible if done right now, if there's a break, then that's not possible, it won't be easy"
+        }
+      ]
+    },
+    {
+      "id": 172600,
+      "type": "message",
+      "date": "2024-10-13T13:39:47",
+      "date_unixtime": "1728806987",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Before joining, my plan was to get masters too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Before joining, my plan was to get masters too"
+        }
+      ]
+    },
+    {
+      "id": 172601,
+      "type": "message",
+      "date": "2024-10-13T13:40:18",
+      "date_unixtime": "1728807018",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "But yeah I had this picture in mind, that's why I prepared hard for a govt college",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But yeah I had this picture in mind, that's why I prepared hard for a govt college"
+        }
+      ]
+    },
+    {
+      "id": 172602,
+      "type": "message",
+      "date": "2024-10-13T13:40:52",
+      "date_unixtime": "1728807052",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Even when I got, it didn't do much help in terms of fees, but yeah the reach and placements are better",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Even when I got, it didn't do much help in terms of fees, but yeah the reach and placements are better"
+        }
+      ]
+    },
+    {
+      "id": 172603,
+      "type": "message",
+      "date": "2024-10-13T13:41:15",
+      "date_unixtime": "1728807075",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So it's total like 12,50,000 for 4 years",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So it's total like 12,50,000 for 4 years"
+        }
+      ]
+    },
+    {
+      "id": 172604,
+      "type": "message",
+      "date": "2024-10-13T13:41:37",
+      "date_unixtime": "1728807097",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Nearly 3 per year",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Nearly 3 per year"
+        }
+      ]
+    },
+    {
+      "id": 172605,
+      "type": "message",
+      "date": "2024-10-13T13:42:05",
+      "date_unixtime": "1728807125",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "How long does it take to complete PG for you",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "How long does it take to complete PG for you"
+        }
+      ]
+    },
+    {
+      "id": 172606,
+      "type": "message",
+      "date": "2024-10-13T13:42:13",
+      "date_unixtime": "1728807133",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And my expenses like 5k or so per month",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And my expenses like 5k or so per month"
+        }
+      ]
+    },
+    {
+      "id": 172607,
+      "type": "message",
+      "date": "2024-10-13T13:42:31",
+      "date_unixtime": "1728807151",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172605,
+      "text": "M.Tech would be 2 years",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "M.Tech would be 2 years"
+        }
+      ]
+    },
+    {
+      "id": 172608,
+      "type": "message",
+      "date": "2024-10-13T13:42:54",
+      "date_unixtime": "1728807174",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And it's fees would be like this too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And it's fees would be like this too"
+        }
+      ]
+    },
+    {
+      "id": 172609,
+      "type": "message",
+      "date": "2024-10-13T13:42:59",
+      "date_unixtime": "1728807179",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "If you completed pg\nThen you will get more salary and you can support your parents better right",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If you completed pg\nThen you will get more salary and you can support your parents better right"
+        }
+      ]
+    },
+    {
+      "id": 172610,
+      "type": "message",
+      "date": "2024-10-13T13:43:08",
+      "date_unixtime": "1728807188",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172609,
+      "text": "Not necessarily",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Not necessarily"
+        }
+      ]
+    },
+    {
+      "id": 172611,
+      "type": "message",
+      "date": "2024-10-13T13:43:24",
+      "date_unixtime": "1728807204",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "We can get a good placement with B.Tech too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "We can get a good placement with B.Tech too"
+        }
+      ]
+    },
+    {
+      "id": 172612,
+      "type": "message",
+      "date": "2024-10-13T13:43:30",
+      "date_unixtime": "1728807210",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Ohh \ud83d\ude2f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ohh \ud83d\ude2f"
+        }
+      ]
+    },
+    {
+      "id": 172613,
+      "type": "message",
+      "date": "2024-10-13T13:43:37",
+      "date_unixtime": "1728807217",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "PG doesn't guarantee better placement",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "PG doesn't guarantee better placement"
+        }
+      ]
+    },
+    {
+      "id": 172614,
+      "type": "message",
+      "date": "2024-10-13T13:43:42",
+      "date_unixtime": "1728807222",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I see",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I see"
+        }
+      ]
+    },
+    {
+      "id": 172615,
+      "type": "message",
+      "date": "2024-10-13T13:44:03",
+      "date_unixtime": "1728807243",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172606,
+      "text": "I try to keep my expenses as low as possible",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I try to keep my expenses as low as possible"
+        }
+      ]
+    },
+    {
+      "id": 172616,
+      "type": "message",
+      "date": "2024-10-13T13:44:49",
+      "date_unixtime": "1728807289",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I urged my parents to take education loan, it is govt college so I could have got around 7.5L without any colletral",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I urged my parents to take education loan, it is govt college so I could have got around 7.5L without any colletral"
+        }
+      ]
+    },
+    {
+      "id": 172617,
+      "type": "message",
+      "date": "2024-10-13T13:45:17",
+      "date_unixtime": "1728807317",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Atleast that could have been my responsibility then",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Atleast that could have been my responsibility then"
+        }
+      ]
+    },
+    {
+      "id": 172618,
+      "type": "message",
+      "date": "2024-10-13T13:45:26",
+      "date_unixtime": "1728807326",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172616,
+      "text": "Didn't they do it?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Didn't they do it?"
+        }
+      ]
+    },
+    {
+      "id": 172619,
+      "type": "message",
+      "date": "2024-10-13T13:45:37",
+      "date_unixtime": "1728807337",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "But they said no need, we'll manage",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But they said no need, we'll manage"
+        }
+      ]
+    },
+    {
+      "id": 172620,
+      "type": "message",
+      "date": "2024-10-13T13:45:45",
+      "date_unixtime": "1728807345",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Oh",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "id": 172621,
+      "type": "message",
+      "date": "2024-10-13T13:46:03",
+      "date_unixtime": "1728807363",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And I'll be 23 this year, don't want to waste any more time",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And I'll be 23 this year, don't want to waste any more time"
+        }
+      ]
+    },
+    {
+      "id": 172622,
+      "type": "message",
+      "date": "2024-10-13T13:46:16",
+      "date_unixtime": "1728807376",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Moreover my sis will be passing 12th this year",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Moreover my sis will be passing 12th this year"
+        }
+      ]
+    },
+    {
+      "id": 172623,
+      "type": "message",
+      "date": "2024-10-13T13:46:38",
+      "date_unixtime": "1728807398",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "She's not the one to go for competitive exams or work hard for govt colleges",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "She's not the one to go for competitive exams or work hard for govt colleges"
+        }
+      ]
+    },
+    {
+      "id": 172624,
+      "type": "message",
+      "date": "2024-10-13T13:47:18",
+      "date_unixtime": "1728807438",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "She's more open, into fancier courses like Forensics, it keeps changing everyday though \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "She's more open, into fancier courses like Forensics, it keeps changing everyday though \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172625,
+      "type": "message",
+      "date": "2024-10-13T13:47:33",
+      "date_unixtime": "1728807453",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Sometimes it's journalism, sometimes it's biotech",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Sometimes it's journalism, sometimes it's biotech"
+        }
+      ]
+    },
+    {
+      "id": 172626,
+      "type": "message",
+      "date": "2024-10-13T13:47:35",
+      "date_unixtime": "1728807455",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172627,
+      "type": "message",
+      "date": "2024-10-13T13:47:40",
+      "date_unixtime": "1728807460",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude02\ud83d\ude02 I understand",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02 I understand"
+        }
+      ]
+    },
+    {
+      "id": 172628,
+      "type": "message",
+      "date": "2024-10-13T13:47:58",
+      "date_unixtime": "1728807478",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "How much will you earn after 23",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "How much will you earn after 23"
+        }
+      ]
+    },
+    {
+      "id": 172629,
+      "type": "message",
+      "date": "2024-10-13T13:48:24",
+      "date_unixtime": "1728807504",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172624,
+      "text": "So It'll be costly anyway",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So It'll be costly anyway"
+        }
+      ]
+    },
+    {
+      "id": 172630,
+      "type": "message",
+      "date": "2024-10-13T13:48:46",
+      "date_unixtime": "1728807526",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So I don't want my parents to face problem because of that",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So I don't want my parents to face problem because of that"
+        }
+      ]
+    },
+    {
+      "id": 172631,
+      "type": "message",
+      "date": "2024-10-13T13:49:00",
+      "date_unixtime": "1728807540",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Moreover my dad will be retiring next year",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Moreover my dad will be retiring next year"
+        }
+      ]
+    },
+    {
+      "id": 172632,
+      "type": "message",
+      "date": "2024-10-13T13:49:33",
+      "date_unixtime": "1728807573",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So then all the burden will be on mom alone, or dad will have to look for some other job at this age",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So then all the burden will be on mom alone, or dad will have to look for some other job at this age"
+        }
+      ]
+    },
+    {
+      "id": 172633,
+      "type": "message",
+      "date": "2024-10-13T13:49:48",
+      "date_unixtime": "1728807588",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "What kind of a failure I'd be if I let that happen",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "What kind of a failure I'd be if I let that happen"
+        }
+      ]
+    },
+    {
+      "id": 172634,
+      "type": "message",
+      "date": "2024-10-13T13:50:29",
+      "date_unixtime": "1728807629",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So yeah I'm trying for a placement as soon as possible",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So yeah I'm trying for a placement as soon as possible"
+        }
+      ]
+    },
+    {
+      "id": 172635,
+      "type": "message",
+      "date": "2024-10-13T13:50:37",
+      "date_unixtime": "1728807637",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I've a placement exam on 16th",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I've a placement exam on 16th"
+        }
+      ]
+    },
+    {
+      "id": 172636,
+      "type": "message",
+      "date": "2024-10-13T13:50:52",
+      "date_unixtime": "1728807652",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Although I've given many till now, I've not qualified in any \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Although I've given many till now, I've not qualified in any \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172637,
+      "type": "message",
+      "date": "2024-10-13T13:51:07",
+      "date_unixtime": "1728807667",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "This I'm hopeful, I'm preparing hard",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "This I'm hopeful, I'm preparing hard"
+        }
+      ]
+    },
+    {
+      "id": 172638,
+      "type": "message",
+      "date": "2024-10-13T13:51:17",
+      "date_unixtime": "1728807677",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All the best \u2728",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best \u2728"
+        }
+      ]
+    },
+    {
+      "id": 172639,
+      "type": "message",
+      "date": "2024-10-13T13:51:24",
+      "date_unixtime": "1728807684",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I hope you will get what you want",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I hope you will get what you want"
+        }
+      ]
+    },
+    {
+      "id": 172640,
+      "type": "message",
+      "date": "2024-10-13T13:51:32",
+      "date_unixtime": "1728807692",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I understand your side",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I understand your side"
+        }
+      ]
+    },
+    {
+      "id": 172641,
+      "type": "message",
+      "date": "2024-10-13T13:51:48",
+      "date_unixtime": "1728807708",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And my brother is in this company, so it won't be alien, especially in interview time \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And my brother is in this company, so it won't be alien, especially in interview time \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172642,
+      "type": "message",
+      "date": "2024-10-13T13:52:08",
+      "date_unixtime": "1728807728",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "If I get it, I'll be getting around 55 - 60 per month",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If I get it, I'll be getting around 55 - 60 per month"
+        }
+      ]
+    },
+    {
+      "id": 172643,
+      "type": "message",
+      "date": "2024-10-13T13:53:42",
+      "date_unixtime": "1728807822",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "But just hopes, ik I haven't developed my skills as needed, idk what I was doing these 3 years \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But just hopes, ik I haven't developed my skills as needed, idk what I was doing these 3 years \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172644,
+      "type": "message",
+      "date": "2024-10-13T13:57:26",
+      "date_unixtime": "1728808046",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Does UPI work there?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Does UPI work there?"
+        }
+      ]
+    },
+    {
+      "id": 172645,
+      "type": "message",
+      "date": "2024-10-13T13:58:53",
+      "date_unixtime": "1728808133",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172642,
+      "text": "Wow 60k",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Wow 60k"
+        }
+      ]
+    },
+    {
+      "id": 172646,
+      "type": "message",
+      "date": "2024-10-13T13:58:59",
+      "date_unixtime": "1728808139",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "So good",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So good"
+        }
+      ]
+    },
+    {
+      "id": 172647,
+      "type": "message",
+      "date": "2024-10-13T13:59:11",
+      "date_unixtime": "1728808151",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172643,
+      "text": "You can develop hereafter",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You can develop hereafter"
+        }
+      ]
+    },
+    {
+      "id": 172648,
+      "type": "message",
+      "date": "2024-10-13T13:59:17",
+      "date_unixtime": "1728808157",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172644,
+      "text": "Sometimes won't work",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Sometimes won't work"
+        }
+      ]
+    },
+    {
+      "id": 172649,
+      "type": "message",
+      "date": "2024-10-13T13:59:27",
+      "date_unixtime": "1728808167",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Sometimes work",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Sometimes work"
+        }
+      ]
+    },
+    {
+      "id": 172650,
+      "type": "message",
+      "date": "2024-10-13T13:59:36",
+      "date_unixtime": "1728808176",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Gpay will work sometimes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Gpay will work sometimes"
+        }
+      ]
+    },
+    {
+      "id": 172651,
+      "type": "message",
+      "date": "2024-10-13T13:59:46",
+      "date_unixtime": "1728808186",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172647,
+      "text": "Now there's no time for that \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Now there's no time for that \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172652,
+      "type": "message",
+      "date": "2024-10-13T13:59:47",
+      "date_unixtime": "1728808187",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Sometimes it will get logged out and won't log in again",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Sometimes it will get logged out and won't log in again"
+        }
+      ]
+    },
+    {
+      "id": 172653,
+      "type": "message",
+      "date": "2024-10-13T13:59:59",
+      "date_unixtime": "1728808199",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172651,
+      "text": "Ok then trust on your own skills",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ok then trust on your own skills"
+        }
+      ]
+    },
+    {
+      "id": 172654,
+      "type": "message",
+      "date": "2024-10-13T14:00:02",
+      "date_unixtime": "1728808202",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That you have",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That you have"
+        }
+      ]
+    },
+    {
+      "id": 172655,
+      "type": "message",
+      "date": "2024-10-13T14:00:21",
+      "date_unixtime": "1728808221",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172645,
+      "text": "That's what I said, we can get descent pay with B.Tech",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's what I said, we can get descent pay with B.Tech"
+        }
+      ]
+    },
+    {
+      "id": 172656,
+      "type": "message",
+      "date": "2024-10-13T14:00:34",
+      "date_unixtime": "1728808234",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Workload would be there, but that's fine",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Workload would be there, but that's fine"
+        }
+      ]
+    },
+    {
+      "id": 172657,
+      "type": "message",
+      "date": "2024-10-13T14:01:04",
+      "date_unixtime": "1728808264",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "60k is too good",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "60k is too good"
+        }
+      ]
+    },
+    {
+      "id": 172658,
+      "type": "message",
+      "date": "2024-10-13T14:01:04",
+      "date_unixtime": "1728808264",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172653,
+      "text": "My trusting won't help na, recruiters should trust \ud83e\udd23\ud83e\udd23",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "My trusting won't help na, recruiters should trust \ud83e\udd23\ud83e\udd23"
+        }
+      ]
+    },
+    {
+      "id": 172659,
+      "type": "message",
+      "date": "2024-10-13T14:01:16",
+      "date_unixtime": "1728808276",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They will trust\nHope for positive",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They will trust\nHope for positive"
+        }
+      ]
+    },
+    {
+      "id": 172660,
+      "type": "message",
+      "date": "2024-10-13T14:01:22",
+      "date_unixtime": "1728808282",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172659,
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172661,
+      "type": "message",
+      "date": "2024-10-13T14:01:29",
+      "date_unixtime": "1728808289",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I hope my vro also get Job after final yr",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I hope my vro also get Job after final yr"
+        }
+      ]
+    },
+    {
+      "id": 172662,
+      "type": "message",
+      "date": "2024-10-13T14:01:47",
+      "date_unixtime": "1728808307",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I'll get, if not this, then something else",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'll get, if not this, then something else"
+        }
+      ]
+    },
+    {
+      "id": 172663,
+      "type": "message",
+      "date": "2024-10-13T14:02:03",
+      "date_unixtime": "1728808323",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Keep trying",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Keep trying"
+        }
+      ]
+    },
+    {
+      "id": 172664,
+      "type": "message",
+      "date": "2024-10-13T14:02:10",
+      "date_unixtime": "1728808330",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172657,
+      "text": "And that's in Trivandrum, so it'll be even better",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And that's in Trivandrum, so it'll be even better"
+        }
+      ]
+    },
+    {
+      "id": 172665,
+      "type": "message",
+      "date": "2024-10-13T14:02:29",
+      "date_unixtime": "1728808349",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "No need to go to some new place, so it'll be easier",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No need to go to some new place, so it'll be easier"
+        }
+      ]
+    },
+    {
+      "id": 172666,
+      "type": "message",
+      "date": "2024-10-13T14:02:39",
+      "date_unixtime": "1728808359",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "That's why I'm trying hard for UST",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why I'm trying hard for UST"
+        }
+      ]
+    },
+    {
+      "id": 172667,
+      "type": "message",
+      "date": "2024-10-13T14:03:58",
+      "date_unixtime": "1728808438",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "You have good ways",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You have good ways"
+        }
+      ]
+    },
+    {
+      "id": 172668,
+      "type": "message",
+      "date": "2024-10-13T14:04:03",
+      "date_unixtime": "1728808443",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "To have a good life",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "To have a good life"
+        }
+      ]
+    },
+    {
+      "id": 172669,
+      "type": "message",
+      "date": "2024-10-13T14:04:08",
+      "date_unixtime": "1728808448",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All the best \ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best \ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 172670,
+      "type": "message",
+      "date": "2024-10-13T14:04:13",
+      "date_unixtime": "1728808453",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172671,
+      "type": "message",
+      "date": "2024-10-13T14:04:18",
+      "date_unixtime": "1728808458",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude01\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude01\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 172672,
+      "type": "message",
+      "date": "2024-10-13T14:04:21",
+      "date_unixtime": "1728808461",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Just hope",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Just hope"
+        }
+      ]
+    },
+    {
+      "id": 172673,
+      "type": "message",
+      "date": "2024-10-13T14:04:25",
+      "date_unixtime": "1728808465",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Unlike me",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Unlike me"
+        }
+      ]
+    },
+    {
+      "id": 172674,
+      "type": "message",
+      "date": "2024-10-13T14:04:30",
+      "date_unixtime": "1728808470",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Acha listen one thing",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Acha listen one thing"
+        }
+      ]
+    },
+    {
+      "id": 172675,
+      "type": "message",
+      "date": "2024-10-13T14:04:35",
+      "date_unixtime": "1728808475",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 172676,
+      "type": "message",
+      "date": "2024-10-13T14:04:46",
+      "date_unixtime": "1728808486",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172673,
+      "text": "You'll be fine \ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You'll be fine \ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172677,
+      "type": "message",
+      "date": "2024-10-13T14:04:49",
+      "date_unixtime": "1728808489",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Okay",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okay"
+        }
+      ]
+    },
+    {
+      "id": 172678,
+      "type": "message",
+      "date": "2024-10-13T14:05:18",
+      "date_unixtime": "1728808518",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172675,
+      "text": "If you're in really need of money, don't feel shy to ask okk",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If you're in really need of money, don't feel shy to ask okk"
+        }
+      ]
+    },
+    {
+      "id": 172679,
+      "type": "message",
+      "date": "2024-10-13T14:05:31",
+      "date_unixtime": "1728808531",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I'll be broke myself most of the time tbh \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'll be broke myself most of the time tbh \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172680,
+      "type": "message",
+      "date": "2024-10-13T14:05:43",
+      "date_unixtime": "1728808543",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "But still, if I can",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But still, if I can"
+        }
+      ]
+    },
+    {
+      "id": 172681,
+      "type": "message",
+      "date": "2024-10-13T14:05:51",
+      "date_unixtime": "1728808551",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "It's ok\nI learnt to manage with the money my dad sends",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's ok\nI learnt to manage with the money my dad sends"
+        }
+      ]
+    },
+    {
+      "id": 172682,
+      "type": "message",
+      "date": "2024-10-13T14:06:03",
+      "date_unixtime": "1728808563",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "If I get a job, then there's no problem \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If I get a job, then there's no problem \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172683,
+      "type": "message",
+      "date": "2024-10-13T14:06:07",
+      "date_unixtime": "1728808567",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Thanks for telling it though",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Thanks for telling it though"
+        }
+      ]
+    },
+    {
+      "id": 172684,
+      "type": "message",
+      "date": "2024-10-13T14:06:24",
+      "date_unixtime": "1728808584",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172683,
+      "text": "I'm not telling just for the sake of it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'm not telling just for the sake of it"
+        }
+      ]
+    },
+    {
+      "id": 172685,
+      "type": "message",
+      "date": "2024-10-13T14:06:31",
+      "date_unixtime": "1728808591",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I know you want to help me",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I know you want to help me"
+        }
+      ]
+    },
+    {
+      "id": 172686,
+      "type": "message",
+      "date": "2024-10-13T14:06:32",
+      "date_unixtime": "1728808592",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I mean it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I mean it"
+        }
+      ]
+    },
+    {
+      "id": 172687,
+      "type": "message",
+      "date": "2024-10-13T14:07:01",
+      "date_unixtime": "1728808621",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U won't have to ask your parents, ik it'll be difficult",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U won't have to ask your parents, ik it'll be difficult"
+        }
+      ]
+    },
+    {
+      "id": 172688,
+      "type": "message",
+      "date": "2024-10-13T14:07:07",
+      "date_unixtime": "1728808627",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "But yeah we can manage",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But yeah we can manage"
+        }
+      ]
+    },
+    {
+      "id": 172689,
+      "type": "message",
+      "date": "2024-10-13T14:07:34",
+      "date_unixtime": "1728808654",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So if there's any urgency like that, please let me know",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So if there's any urgency like that, please let me know"
+        }
+      ]
+    },
+    {
+      "id": 172690,
+      "type": "message",
+      "date": "2024-10-13T14:08:08",
+      "date_unixtime": "1728808688",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes sure \ud83e\udd79",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes sure \ud83e\udd79"
+        }
+      ]
+    },
+    {
+      "id": 172691,
+      "type": "message",
+      "date": "2024-10-13T14:08:43",
+      "date_unixtime": "1728808723",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "If my vro gets job my family might be ok",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If my vro gets job my family might be ok"
+        }
+      ]
+    },
+    {
+      "id": 172692,
+      "type": "message",
+      "date": "2024-10-13T14:08:51",
+      "date_unixtime": "1728808731",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Although thanks a lot for thinking about me",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Although thanks a lot for thinking about me"
+        }
+      ]
+    },
+    {
+      "id": 172693,
+      "type": "message",
+      "date": "2024-10-13T14:08:57",
+      "date_unixtime": "1728808737",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd27\ud83e\udd27",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd27\ud83e\udd27"
+        }
+      ]
+    },
+    {
+      "id": 172694,
+      "type": "message",
+      "date": "2024-10-13T14:09:01",
+      "date_unixtime": "1728808741",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "If I get a job, which hopefully (hopefully) I'll get, then there won't be a problem \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If I get a job, which hopefully (hopefully) I'll get, then there won't be a problem \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172695,
+      "type": "message",
+      "date": "2024-10-13T14:09:16",
+      "date_unixtime": "1728808756",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "And especially if I get in UST, it'll be even better",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And especially if I get in UST, it'll be even better"
+        }
+      ]
+    },
+    {
+      "id": 172696,
+      "type": "message",
+      "date": "2024-10-13T14:09:21",
+      "date_unixtime": "1728808761",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172694,
+      "text": "I hope you get whatever you wish for \u2728",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I hope you get whatever you wish for \u2728"
+        }
+      ]
+    },
+    {
+      "id": 172697,
+      "type": "message",
+      "date": "2024-10-13T14:09:27",
+      "date_unixtime": "1728808767",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Then u can ask more freely \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then u can ask more freely \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172698,
+      "type": "message",
+      "date": "2024-10-13T14:09:32",
+      "date_unixtime": "1728808772",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Ayo \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ayo \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172699,
+      "type": "message",
+      "date": "2024-10-13T14:09:59",
+      "date_unixtime": "1728808799",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "You can ask me too\nAfter like 10 yrs\ud83e\udd72 if you are broke that time\nHopefully I get job after 10yrs",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You can ask me too\nAfter like 10 yrs\ud83e\udd72 if you are broke that time\nHopefully I get job after 10yrs"
+        }
+      ]
+    },
+    {
+      "id": 172700,
+      "type": "message",
+      "date": "2024-10-13T14:10:01",
+      "date_unixtime": "1728808801",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172692,
+      "text": "\ud83d\udc40\ud83d\udc40",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc40\ud83d\udc40"
+        }
+      ]
+    },
+    {
+      "id": 172701,
+      "type": "message",
+      "date": "2024-10-13T14:10:09",
+      "date_unixtime": "1728808809",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172699,
+      "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+        }
+      ]
+    },
+    {
+      "id": 172702,
+      "type": "message",
+      "date": "2024-10-13T14:10:13",
+      "date_unixtime": "1728808813",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172703,
+      "type": "message",
+      "date": "2024-10-13T14:10:32",
+      "date_unixtime": "1728808832",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U want me to be broke in my 30s \ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U want me to be broke in my 30s \ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172704,
+      "type": "message",
+      "date": "2024-10-13T14:11:25",
+      "date_unixtime": "1728808885",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "No \ud83d\ude02 you will live good",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No \ud83d\ude02 you will live good"
+        }
+      ]
+    },
+    {
+      "id": 172705,
+      "type": "message",
+      "date": "2024-10-13T14:11:28",
+      "date_unixtime": "1728808888",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "When u get a job, I should kidnap u from your home ig \ud83e\udd23\ud83e\udd23",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "When u get a job, I should kidnap u from your home ig \ud83e\udd23\ud83e\udd23"
+        }
+      ]
+    },
+    {
+      "id": 172706,
+      "type": "message",
+      "date": "2024-10-13T14:11:30",
+      "date_unixtime": "1728808890",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am just saying \nIn case",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am just saying \nIn case"
+        }
+      ]
+    },
+    {
+      "id": 172707,
+      "type": "message",
+      "date": "2024-10-13T14:11:36",
+      "date_unixtime": "1728808896",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172706,
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 172709,
+      "type": "message",
+      "date": "2024-10-13T14:12:07",
+      "date_unixtime": "1728808927",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172705,
+      "text": "Why lol",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Why lol"
+        }
+      ]
+    },
+    {
+      "id": 172710,
+      "type": "message",
+      "date": "2024-10-13T14:12:31",
+      "date_unixtime": "1728808951",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172691,
+      "text": "He's in MBBS final year na, he has to go for specialization as well na",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "He's in MBBS final year na, he has to go for specialization as well na"
+        }
+      ]
+    },
+    {
+      "id": 172711,
+      "type": "message",
+      "date": "2024-10-13T14:12:41",
+      "date_unixtime": "1728808961",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "How will he get a job with mere MBBS",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "How will he get a job with mere MBBS"
+        }
+      ]
+    },
+    {
+      "id": 172712,
+      "type": "message",
+      "date": "2024-10-13T14:12:55",
+      "date_unixtime": "1728808975",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172709,
+      "text": "Why not \ud83e\udd71",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Why not \ud83e\udd71"
+        }
+      ]
+    },
+    {
+      "id": 172713,
+      "type": "message",
+      "date": "2024-10-13T14:15:42",
+      "date_unixtime": "1728809142",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172711,
+      "text": "Ayo \ud83d\ude02\ud83d\ude2d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ayo \ud83d\ude02\ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "id": 172714,
+      "type": "message",
+      "date": "2024-10-13T14:15:57",
+      "date_unixtime": "1728809157",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am cooking",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am cooking"
+        }
+      ]
+    },
+    {
+      "id": 172715,
+      "type": "message",
+      "date": "2024-10-13T14:16:01",
+      "date_unixtime": "1728809161",
+      "edited": "2024-10-13T14:16:03",
+      "edited_unixtime": "1728809163",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That's why can't reply",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why can't reply"
+        }
+      ]
+    },
+    {
+      "id": 172716,
+      "type": "message",
+      "date": "2024-10-13T14:16:06",
+      "date_unixtime": "1728809166",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Continuously",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Continuously"
+        }
+      ]
+    },
+    {
+      "id": 172717,
+      "type": "message",
+      "date": "2024-10-13T14:16:19",
+      "date_unixtime": "1728809179",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It's fine, did I complain \ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's fine, did I complain \ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172718,
+      "type": "message",
+      "date": "2024-10-13T14:16:23",
+      "date_unixtime": "1728809183",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "No",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 172719,
+      "type": "message",
+      "date": "2024-10-13T14:16:25",
+      "date_unixtime": "1728809185",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd72\ud83e\udd72",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd72\ud83e\udd72"
+        }
+      ]
+    },
+    {
+      "id": 172720,
+      "type": "message",
+      "date": "2024-10-13T14:17:37",
+      "date_unixtime": "1728809257",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Then \ud83d\udc40",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then \ud83d\udc40"
+        }
+      ]
+    },
+    {
+      "id": 172721,
+      "type": "message",
+      "date": "2024-10-13T14:48:10",
+      "date_unixtime": "1728811090",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude05\ud83d\ude05",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude05\ud83d\ude05"
+        }
+      ]
+    },
+    {
+      "id": 172722,
+      "type": "message",
+      "date": "2024-10-13T14:50:48",
+      "date_unixtime": "1728811248",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172723,
+      "type": "message",
+      "date": "2024-10-13T14:50:55",
+      "date_unixtime": "1728811255",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ok go and eat now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ok go and eat now"
+        }
+      ]
+    },
+    {
+      "id": 172724,
+      "type": "message",
+      "date": "2024-10-13T14:51:07",
+      "date_unixtime": "1728811267",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Hmm okay...",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hmm okay..."
+        }
+      ]
+    },
+    {
+      "id": 172725,
+      "type": "message",
+      "date": "2024-10-13T14:51:29",
+      "date_unixtime": "1728811289",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ha",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ha"
+        }
+      ]
+    },
+    {
+      "id": 172748,
+      "type": "message",
+      "date": "2024-10-14T22:58:39",
+      "date_unixtime": "1728926919",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodnight",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight"
+        }
+      ]
+    },
+    {
+      "id": 172749,
+      "type": "message",
+      "date": "2024-10-14T22:58:50",
+      "date_unixtime": "1728926930",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\udca4\ud83d\udca4",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\udca4\ud83d\udca4"
+        }
+      ]
+    },
+    {
+      "id": 172750,
+      "type": "message",
+      "date": "2024-10-14T23:04:50",
+      "date_unixtime": "1728927290",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ate?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ate?"
+        }
+      ]
+    },
+    {
+      "id": 172751,
+      "type": "message",
+      "date": "2024-10-14T23:05:00",
+      "date_unixtime": "1728927300",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 172752,
+      "type": "message",
+      "date": "2024-10-14T23:05:01",
+      "date_unixtime": "1728927301",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "You",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "id": 172753,
+      "type": "message",
+      "date": "2024-10-14T23:05:22",
+      "date_unixtime": "1728927322",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ha",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ha"
+        }
+      ]
+    },
+    {
+      "id": 172754,
+      "type": "message",
+      "date": "2024-10-14T23:06:40",
+      "date_unixtime": "1728927400",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude0a\ud83d\ude0a",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude0a\ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "id": 172757,
+      "type": "message",
+      "date": "2024-10-14T23:07:52",
+      "date_unixtime": "1728927472",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Hnn",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hnn"
+        }
+      ]
+    },
+    {
+      "id": 172758,
+      "type": "message",
+      "date": "2024-10-14T23:08:43",
+      "date_unixtime": "1728927523",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Okay I am sleeping \ud83d\ude34",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okay I am sleeping \ud83d\ude34"
+        }
+      ]
+    },
+    {
+      "id": 172759,
+      "type": "message",
+      "date": "2024-10-14T23:08:47",
+      "date_unixtime": "1728927527",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Feeling tired",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Feeling tired"
+        }
+      ]
+    },
+    {
+      "id": 172760,
+      "type": "message",
+      "date": "2024-10-14T23:08:50",
+      "date_unixtime": "1728927530",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\ude34",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\ude34"
+        }
+      ]
+    },
+    {
+      "id": 172761,
+      "type": "message",
+      "date": "2024-10-14T23:14:19",
+      "date_unixtime": "1728927859",
+      "edited": "2024-10-14T23:18:53",
+      "edited_unixtime": "1728928133",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodnight",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight"
+        }
+      ]
+    },
+    {
+      "id": 172797,
+      "type": "message",
+      "date": "2024-10-16T22:50:10",
+      "date_unixtime": "1729099210",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye \ud83d\udc4b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye \ud83d\udc4b"
+        }
+      ]
+    },
+    {
+      "id": 172798,
+      "type": "message",
+      "date": "2024-10-16T22:50:12",
+      "date_unixtime": "1729099212",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Gn",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Gn"
+        }
+      ]
+    },
+    {
+      "id": 172799,
+      "type": "message",
+      "date": "2024-10-16T22:50:35",
+      "date_unixtime": "1729099235",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\ude34\u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\ude34\u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 172800,
+      "type": "message",
+      "date": "2024-10-16T22:54:24",
+      "date_unixtime": "1729099464",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Not comfortable yet?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Not comfortable yet?"
+        }
+      ]
+    },
+    {
+      "id": 172801,
+      "type": "message",
+      "date": "2024-10-16T22:57:28",
+      "date_unixtime": "1729099648",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Am okay",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Am okay"
+        }
+      ]
+    },
+    {
+      "id": 172802,
+      "type": "message",
+      "date": "2024-10-16T22:57:53",
+      "date_unixtime": "1729099673",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Because I came late they gave me more impositions to write for missed classes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Because I came late they gave me more impositions to write for missed classes"
+        }
+      ]
+    },
+    {
+      "id": 172803,
+      "type": "message",
+      "date": "2024-10-16T22:58:10",
+      "date_unixtime": "1729099690",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "This yr has started bad",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "This yr has started bad"
+        }
+      ]
+    },
+    {
+      "id": 172804,
+      "type": "message",
+      "date": "2024-10-16T22:58:16",
+      "date_unixtime": "1729099696",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Let's see how it goes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Let's see how it goes"
+        }
+      ]
+    },
+    {
+      "id": 172805,
+      "type": "message",
+      "date": "2024-10-16T22:58:19",
+      "date_unixtime": "1729099699",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am writing now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am writing now"
+        }
+      ]
+    },
+    {
+      "id": 172806,
+      "type": "message",
+      "date": "2024-10-16T22:58:26",
+      "date_unixtime": "1729099706",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Don't know when it will be completed",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Don't know when it will be completed"
+        }
+      ]
+    },
+    {
+      "id": 172807,
+      "type": "message",
+      "date": "2024-10-16T22:58:37",
+      "date_unixtime": "1729099717",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I'll text later",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'll text later"
+        }
+      ]
+    },
+    {
+      "id": 172808,
+      "type": "message",
+      "date": "2024-10-16T22:58:55",
+      "date_unixtime": "1729099735",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172807,
+      "text": "Yeah fine",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah fine"
+        }
+      ]
+    },
+    {
+      "id": 172809,
+      "type": "message",
+      "date": "2024-10-16T22:59:05",
+      "date_unixtime": "1729099745",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Do when u feel comfortable",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Do when u feel comfortable"
+        }
+      ]
+    },
+    {
+      "id": 172810,
+      "type": "message",
+      "date": "2024-10-16T22:59:07",
+      "date_unixtime": "1729099747",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "id": 172811,
+      "type": "message",
+      "date": "2024-10-16T22:59:40",
+      "date_unixtime": "1729099780",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "How are you",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "How are you"
+        }
+      ]
+    },
+    {
+      "id": 172812,
+      "type": "message",
+      "date": "2024-10-16T23:07:41",
+      "date_unixtime": "1729100261",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I'm good",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'm good"
+        }
+      ]
+    },
+    {
+      "id": 172813,
+      "type": "message",
+      "date": "2024-10-16T23:07:42",
+      "date_unixtime": "1729100262",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U?"
+        }
+      ]
+    },
+    {
+      "id": 172814,
+      "type": "message",
+      "date": "2024-10-16T23:15:18",
+      "date_unixtime": "1729100718",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Idk\ud83e\udd72 getting used to it everyday",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Idk\ud83e\udd72 getting used to it everyday"
+        }
+      ]
+    },
+    {
+      "id": 172815,
+      "type": "message",
+      "date": "2024-10-16T23:25:06",
+      "date_unixtime": "1729101306",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Mm",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Mm"
+        }
+      ]
+    },
+    {
+      "id": 172816,
+      "type": "message",
+      "date": "2024-10-16T23:25:44",
+      "date_unixtime": "1729101344",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U can text when u feel like it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U can text when u feel like it"
+        }
+      ]
+    },
+    {
+      "id": 172817,
+      "type": "message",
+      "date": "2024-10-16T23:25:50",
+      "date_unixtime": "1729101350",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Text when u feel comfortable",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Text when u feel comfortable"
+        }
+      ]
+    },
+    {
+      "id": 172818,
+      "type": "message",
+      "date": "2024-10-16T23:42:24",
+      "date_unixtime": "1729102344",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\udc4b\ud83d\udc4b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc4b\ud83d\udc4b"
+        }
+      ]
+    },
+    {
+      "id": 172819,
+      "type": "message",
+      "date": "2024-10-16T23:42:53",
+      "date_unixtime": "1729102373",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Sorry because of too much writing I couldn't text",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Sorry because of too much writing I couldn't text"
+        }
+      ]
+    },
+    {
+      "id": 172820,
+      "type": "message",
+      "date": "2024-10-16T23:43:06",
+      "date_unixtime": "1729102386",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I feel sleepy too but have to write",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I feel sleepy too but have to write"
+        }
+      ]
+    },
+    {
+      "id": 172821,
+      "type": "message",
+      "date": "2024-10-16T23:43:09",
+      "date_unixtime": "1729102389",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "It's too hard",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's too hard"
+        }
+      ]
+    },
+    {
+      "id": 172822,
+      "type": "message",
+      "date": "2024-10-16T23:43:17",
+      "date_unixtime": "1729102397",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\udca4",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\udca4"
+        }
+      ]
+    },
+    {
+      "id": 172823,
+      "type": "message",
+      "date": "2024-10-16T23:44:58",
+      "date_unixtime": "1729102498",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172819,
+      "text": "It's fine",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's fine"
+        }
+      ]
+    },
+    {
+      "id": 172824,
+      "type": "message",
+      "date": "2024-10-16T23:45:18",
+      "date_unixtime": "1729102518",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Lemme know if u need any help",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Lemme know if u need any help"
+        }
+      ]
+    },
+    {
+      "id": 172825,
+      "type": "message",
+      "date": "2024-10-17T00:04:01",
+      "date_unixtime": "1729103641",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172824,
+      "text": "I will tell you if I need \u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I will tell you if I need \u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 172826,
+      "type": "message",
+      "date": "2024-10-17T00:04:23",
+      "date_unixtime": "1729103663",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "If it was online submission \nI would have given you some pages \ud83d\ude2d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If it was online submission \nI would have given you some pages \ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "id": 172827,
+      "type": "message",
+      "date": "2024-10-17T00:05:12",
+      "date_unixtime": "1729103712",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172825,
+      "text": "Yeah sure",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah sure"
+        }
+      ]
+    },
+    {
+      "id": 172828,
+      "type": "message",
+      "date": "2024-10-17T00:05:57",
+      "date_unixtime": "1729103757",
+      "edited": "2024-10-17T00:06:03",
+      "edited_unixtime": "1729103763",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd1d\ud83e\udd1d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd1d\ud83e\udd1d"
+        }
+      ]
+    },
+    {
+      "id": 172829,
+      "type": "message",
+      "date": "2024-10-17T00:06:18",
+      "date_unixtime": "1729103778",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Okk then",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okk then"
+        }
+      ]
+    },
+    {
+      "id": 172830,
+      "type": "message",
+      "date": "2024-10-17T00:06:26",
+      "date_unixtime": "1729103786",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Finish fast and sleep",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Finish fast and sleep"
+        }
+      ]
+    },
+    {
+      "id": 172831,
+      "type": "message",
+      "date": "2024-10-17T00:06:29",
+      "date_unixtime": "1729103789",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodnight \ud83d\ude34",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\ude34"
+        }
+      ]
+    },
+    {
+      "id": 172832,
+      "type": "message",
+      "date": "2024-10-17T00:06:35",
+      "date_unixtime": "1729103795",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye \ud83d\udc4b\ud83d\udc4b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye \ud83d\udc4b\ud83d\udc4b"
+        }
+      ]
+    },
+    {
+      "id": 172833,
+      "type": "message",
+      "date": "2024-10-17T00:59:36",
+      "date_unixtime": "1729106976",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Mm ok\ud83e\udd79",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Mm ok\ud83e\udd79"
+        }
+      ]
+    },
+    {
+      "id": 172834,
+      "type": "message",
+      "date": "2024-10-17T00:59:39",
+      "date_unixtime": "1729106979",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight"
+        }
+      ]
+    },
+    {
+      "id": 172865,
+      "type": "message",
+      "date": "2024-10-18T23:56:37",
+      "date_unixtime": "1729275997",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodnight",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight"
+        }
+      ]
+    },
+    {
+      "id": 172866,
+      "type": "message",
+      "date": "2024-10-18T23:56:58",
+      "date_unixtime": "1729276018",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\udca4 \ud83d\ude34",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\udca4 \ud83d\ude34"
+        }
+      ]
+    },
+    {
+      "id": 172869,
+      "type": "message",
+      "date": "2024-10-19T00:03:04",
+      "date_unixtime": "1729276384",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Assignments done?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Assignments done?"
+        }
+      ]
+    },
+    {
+      "id": 172870,
+      "type": "message",
+      "date": "2024-10-19T00:03:20",
+      "date_unixtime": "1729276400",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Doing",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Doing"
+        }
+      ]
+    },
+    {
+      "id": 172871,
+      "type": "message",
+      "date": "2024-10-19T00:03:23",
+      "date_unixtime": "1729276403",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Actually studying",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Actually studying"
+        }
+      ]
+    },
+    {
+      "id": 172872,
+      "type": "message",
+      "date": "2024-10-19T00:03:35",
+      "date_unixtime": "1729276415",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For tomorrow's class",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For tomorrow's class"
+        }
+      ]
+    },
+    {
+      "id": 172873,
+      "type": "message",
+      "date": "2024-10-19T00:03:44",
+      "date_unixtime": "1729276424",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "In 3rd yr every teacher is like psycho",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "In 3rd yr every teacher is like psycho"
+        }
+      ]
+    },
+    {
+      "id": 172874,
+      "type": "message",
+      "date": "2024-10-19T00:04:08",
+      "date_unixtime": "1729276448",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "If we don't answer any questions\nThey are telling us to write 40 pages",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "If we don't answer any questions\nThey are telling us to write 40 pages"
+        }
+      ]
+    },
+    {
+      "id": 172875,
+      "type": "message",
+      "date": "2024-10-19T00:04:17",
+      "date_unixtime": "1729276457",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd72\ud83d\ude42",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd72\ud83d\ude42"
+        }
+      ]
+    },
+    {
+      "id": 172876,
+      "type": "message",
+      "date": "2024-10-19T00:04:32",
+      "date_unixtime": "1729276472",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Study study",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Study study"
+        }
+      ]
+    },
+    {
+      "id": 172877,
+      "type": "message",
+      "date": "2024-10-19T00:04:35",
+      "date_unixtime": "1729276475",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "All the best",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best"
+        }
+      ]
+    },
+    {
+      "id": 172878,
+      "type": "message",
+      "date": "2024-10-19T00:04:36",
+      "date_unixtime": "1729276476",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Just now completed cooking",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Just now completed cooking"
+        }
+      ]
+    },
+    {
+      "id": 172879,
+      "type": "message",
+      "date": "2024-10-19T00:04:41",
+      "date_unixtime": "1729276481",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "And started to study",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "And started to study"
+        }
+      ]
+    },
+    {
+      "id": 172880,
+      "type": "message",
+      "date": "2024-10-19T00:04:48",
+      "date_unixtime": "1729276488",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But sleepy\ud83e\udd72",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But sleepy\ud83e\udd72"
+        }
+      ]
+    },
+    {
+      "id": 172881,
+      "type": "message",
+      "date": "2024-10-19T00:05:02",
+      "date_unixtime": "1729276502",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172882,
+      "type": "message",
+      "date": "2024-10-19T00:05:18",
+      "date_unixtime": "1729276518",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It's fine, either sleep and wake up early",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's fine, either sleep and wake up early"
+        }
+      ]
+    },
+    {
+      "id": 172883,
+      "type": "message",
+      "date": "2024-10-19T00:05:40",
+      "date_unixtime": "1729276540",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But if I think of 40pages I can't sleep too \ud83d\ude02 \nWill study until 12:30 at least",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But if I think of 40pages I can't sleep too \ud83d\ude02 \nWill study until 12:30 at least"
+        }
+      ]
+    },
+    {
+      "id": 172884,
+      "type": "message",
+      "date": "2024-10-19T00:05:48",
+      "date_unixtime": "1729276548",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Ok u study, I'm not taking your time",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ok u study, I'm not taking your time"
+        }
+      ]
+    },
+    {
+      "id": 172885,
+      "type": "message",
+      "date": "2024-10-19T00:05:53",
+      "date_unixtime": "1729276553",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Do well",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Do well"
+        }
+      ]
+    },
+    {
+      "id": 172886,
+      "type": "message",
+      "date": "2024-10-19T00:05:56",
+      "date_unixtime": "1729276556",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\udc4d\ud83d\udc4d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc4d\ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "id": 172887,
+      "type": "message",
+      "date": "2024-10-19T00:05:59",
+      "date_unixtime": "1729276559",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodnight",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight"
+        }
+      ]
+    },
+    {
+      "id": 172888,
+      "type": "message",
+      "date": "2024-10-19T00:06:08",
+      "date_unixtime": "1729276568",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Already I am having 80 pages imposition remaining for coming late to uzbekistan and missing classes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Already I am having 80 pages imposition remaining for coming late to uzbekistan and missing classes"
+        }
+      ]
+    },
+    {
+      "id": 172889,
+      "type": "message",
+      "date": "2024-10-19T00:06:13",
+      "date_unixtime": "1729276573",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But what's my mistake",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But what's my mistake"
+        }
+      ]
+    },
+    {
+      "id": 172890,
+      "type": "message",
+      "date": "2024-10-19T00:06:18",
+      "date_unixtime": "1729276578",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "They gave me visa late",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "They gave me visa late"
+        }
+      ]
+    },
+    {
+      "id": 172891,
+      "type": "message",
+      "date": "2024-10-19T00:06:31",
+      "date_unixtime": "1729276591",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Such a psycho university and psycho teachers",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Such a psycho university and psycho teachers"
+        }
+      ]
+    },
+    {
+      "id": 172892,
+      "type": "message",
+      "date": "2024-10-19T00:06:47",
+      "date_unixtime": "1729276607",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Well it's not related to university na",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Well it's not related to university na"
+        }
+      ]
+    },
+    {
+      "id": 172893,
+      "type": "message",
+      "date": "2024-10-19T00:06:54",
+      "date_unixtime": "1729276614",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Visa is by embassy",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Visa is by embassy"
+        }
+      ]
+    },
+    {
+      "id": 172894,
+      "type": "message",
+      "date": "2024-10-19T00:06:55",
+      "date_unixtime": "1729276615",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "It's related to university",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's related to university"
+        }
+      ]
+    },
+    {
+      "id": 172895,
+      "type": "message",
+      "date": "2024-10-19T00:07:01",
+      "date_unixtime": "1729276621",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For student visa",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For student visa"
+        }
+      ]
+    },
+    {
+      "id": 172896,
+      "type": "message",
+      "date": "2024-10-19T00:07:08",
+      "date_unixtime": "1729276628",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Then u should go and complain",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Then u should go and complain"
+        }
+      ]
+    },
+    {
+      "id": 172897,
+      "type": "message",
+      "date": "2024-10-19T00:07:08",
+      "date_unixtime": "1729276628",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "University give documents",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "University give documents"
+        }
+      ]
+    },
+    {
+      "id": 172898,
+      "type": "message",
+      "date": "2024-10-19T00:07:13",
+      "date_unixtime": "1729276633",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But my agent is in between",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But my agent is in between"
+        }
+      ]
+    },
+    {
+      "id": 172899,
+      "type": "message",
+      "date": "2024-10-19T00:07:17",
+      "date_unixtime": "1729276637",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That's why it got late",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why it got late"
+        }
+      ]
+    },
+    {
+      "id": 172900,
+      "type": "message",
+      "date": "2024-10-19T00:07:23",
+      "date_unixtime": "1729276643",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "University and agents Fraud",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "University and agents Fraud"
+        }
+      ]
+    },
+    {
+      "id": 172901,
+      "type": "message",
+      "date": "2024-10-19T00:07:47",
+      "date_unixtime": "1729276667",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Well not point talking about that",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Well not point talking about that"
+        }
+      ]
+    },
+    {
+      "id": 172902,
+      "type": "message",
+      "date": "2024-10-19T00:07:50",
+      "date_unixtime": "1729276670",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U study",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U study"
+        }
+      ]
+    },
+    {
+      "id": 172903,
+      "type": "message",
+      "date": "2024-10-19T00:07:54",
+      "date_unixtime": "1729276674",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I'll leave",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'll leave"
+        }
+      ]
+    },
+    {
+      "id": 172904,
+      "type": "message",
+      "date": "2024-10-19T00:07:55",
+      "date_unixtime": "1729276675",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "id": 172905,
+      "type": "message",
+      "date": "2024-10-19T00:08:07",
+      "date_unixtime": "1729276687",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "See you take care \ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "See you take care \ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 172906,
+      "type": "message",
+      "date": "2024-10-19T00:08:12",
+      "date_unixtime": "1729276692",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Goodnight \ud83d\ude34",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodnight \ud83d\ude34"
+        }
+      ]
+    },
+    {
+      "id": 172907,
+      "type": "message",
+      "date": "2024-10-19T00:10:30",
+      "date_unixtime": "1729276830",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172905,
+      "text": "You too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You too"
+        }
+      ]
+    },
+    {
+      "id": 172908,
+      "type": "message",
+      "date": "2024-10-19T00:10:43",
+      "date_unixtime": "1729276843",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Take care",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Take care"
+        }
+      ]
+    },
+    {
+      "id": 172909,
+      "type": "message",
+      "date": "2024-10-19T00:11:04",
+      "date_unixtime": "1729276864",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "We can talk once you get out of this mess \ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "We can talk once you get out of this mess \ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172910,
+      "type": "message",
+      "date": "2024-10-19T00:11:09",
+      "date_unixtime": "1729276869",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "id": 172911,
+      "type": "message",
+      "date": "2024-10-19T00:11:13",
+      "date_unixtime": "1729276873",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172909,
+      "text": "\ud83d\ude2d\ud83d\ude2d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2d\ud83d\ude2d"
+        }
+      ]
+    },
+    {
+      "id": 172912,
+      "type": "message",
+      "date": "2024-10-19T00:11:16",
+      "date_unixtime": "1729276876",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Okay",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okay"
+        }
+      ]
+    },
+    {
+      "id": 172913,
+      "type": "message",
+      "date": "2024-10-19T00:11:36",
+      "date_unixtime": "1729276896",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "You too study well",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You too study well"
+        }
+      ]
+    },
+    {
+      "id": 172914,
+      "type": "message",
+      "date": "2024-10-19T00:11:37",
+      "date_unixtime": "1729276897",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "So text when you're totally free \ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So text when you're totally free \ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172915,
+      "type": "message",
+      "date": "2024-10-19T00:11:41",
+      "date_unixtime": "1729276901",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172913,
+      "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 172916,
+      "type": "message",
+      "date": "2024-10-19T00:11:49",
+      "date_unixtime": "1729276909",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 172914,
+      "text": "That's difficult",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's difficult"
+        }
+      ]
+    },
+    {
+      "id": 172917,
+      "type": "message",
+      "date": "2024-10-19T00:11:53",
+      "date_unixtime": "1729276913",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Can't be free",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Can't be free"
+        }
+      ]
+    },
+    {
+      "id": 172918,
+      "type": "message",
+      "date": "2024-10-19T00:11:57",
+      "date_unixtime": "1729276917",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "But will text",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "But will text"
+        }
+      ]
+    },
+    {
+      "id": 172919,
+      "type": "message",
+      "date": "2024-10-19T00:12:02",
+      "date_unixtime": "1729276922",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Nah not now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Nah not now"
+        }
+      ]
+    },
+    {
+      "id": 172920,
+      "type": "message",
+      "date": "2024-10-19T00:12:08",
+      "date_unixtime": "1729276928",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Whenever u are, later",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Whenever u are, later"
+        }
+      ]
+    },
+    {
+      "id": 172921,
+      "type": "message",
+      "date": "2024-10-19T00:12:12",
+      "date_unixtime": "1729276932",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Okay",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okay"
+        }
+      ]
+    },
+    {
+      "id": 172922,
+      "type": "message",
+      "date": "2024-10-19T00:12:23",
+      "date_unixtime": "1729276943",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172918,
+      "text": "No need to leave your work and text",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No need to leave your work and text"
+        }
+      ]
+    },
+    {
+      "id": 172923,
+      "type": "message",
+      "date": "2024-10-19T00:12:30",
+      "date_unixtime": "1729276950",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd72\ud83e\udd72",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd72\ud83e\udd72"
+        }
+      ]
+    },
+    {
+      "id": 172924,
+      "type": "message",
+      "date": "2024-10-19T00:12:33",
+      "date_unixtime": "1729276953",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It's fine",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's fine"
+        }
+      ]
+    },
+    {
+      "id": 172925,
+      "type": "message",
+      "date": "2024-10-19T00:12:39",
+      "date_unixtime": "1729276959",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Go now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Go now"
+        }
+      ]
+    },
+    {
+      "id": 172926,
+      "type": "message",
+      "date": "2024-10-19T00:12:42",
+      "date_unixtime": "1729276962",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "id": 172927,
+      "type": "message",
+      "date": "2024-10-19T00:12:54",
+      "date_unixtime": "1729276974",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\udc4b\ud83d\ude0a",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc4b\ud83d\ude0a"
+        }
+      ]
+    },
+    {
+      "id": 173006,
+      "type": "message",
+      "date": "2024-10-25T22:03:49",
+      "date_unixtime": "1729874029",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 172695,
+      "text": "I cleared the written exam, got selected for the Interview",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I cleared the written exam, got selected for the Interview"
+        }
+      ]
+    },
+    {
+      "id": 173016,
+      "type": "message",
+      "date": "2024-10-26T03:37:23",
+      "date_unixtime": "1729894043",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Wow!!\nAll the best \u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Wow!!\nAll the best \u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 173017,
+      "type": "message",
+      "date": "2024-10-26T03:37:31",
+      "date_unixtime": "1729894051",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173018,
+      "type": "message",
+      "date": "2024-10-26T03:37:35",
+      "date_unixtime": "1729894055",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Happy for you",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Happy for you"
+        }
+      ]
+    },
+    {
+      "id": 173019,
+      "type": "message",
+      "date": "2024-10-26T05:19:44",
+      "date_unixtime": "1729900184",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Just pray that I get past interviews as well \ud83d\ude05",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Just pray that I get past interviews as well \ud83d\ude05"
+        }
+      ]
+    },
+    {
+      "id": 173020,
+      "type": "message",
+      "date": "2024-10-26T08:43:19",
+      "date_unixtime": "1729912399",
+      "edited": "2024-10-26T10:07:01",
+      "edited_unixtime": "1729917421",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "You will \u2728\u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You will \u2728\u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 173079,
+      "type": "message",
+      "date": "2024-10-28T09:14:16",
+      "date_unixtime": "1730087056",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "When is the interview",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "When is the interview"
+        }
+      ]
+    },
+    {
+      "id": 173080,
+      "type": "message",
+      "date": "2024-10-28T09:14:16",
+      "date_unixtime": "1730087056",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "??",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "??"
+        }
+      ]
+    },
+    {
+      "id": 173081,
+      "type": "message",
+      "date": "2024-10-28T09:18:34",
+      "date_unixtime": "1730087314",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Goodmorning",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Goodmorning"
+        }
+      ]
+    },
+    {
+      "id": 173082,
+      "type": "message",
+      "date": "2024-10-28T09:18:43",
+      "date_unixtime": "1730087323",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173079,
+      "text": "It'll most probably be tomorrow",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It'll most probably be tomorrow"
+        }
+      ]
+    },
+    {
+      "id": 173083,
+      "type": "message",
+      "date": "2024-10-28T09:20:16",
+      "date_unixtime": "1730087416",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Good morning",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good morning"
+        }
+      ]
+    },
+    {
+      "id": 173084,
+      "type": "message",
+      "date": "2024-10-28T09:20:16",
+      "date_unixtime": "1730087416",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All the best \u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best \u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 173085,
+      "type": "message",
+      "date": "2024-10-28T09:20:16",
+      "date_unixtime": "1730087416",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Tell me how it went",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Tell me how it went"
+        }
+      ]
+    },
+    {
+      "id": 173086,
+      "type": "message",
+      "date": "2024-10-28T09:31:51",
+      "date_unixtime": "1730088111",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173085,
+      "text": "Ha",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ha"
+        }
+      ]
+    },
+    {
+      "id": 173087,
+      "type": "message",
+      "date": "2024-10-28T09:31:53",
+      "date_unixtime": "1730088113",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Idk, I don't have much hope now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Idk, I don't have much hope now"
+        }
+      ]
+    },
+    {
+      "id": 173088,
+      "type": "message",
+      "date": "2024-10-28T09:32:03",
+      "date_unixtime": "1730088123",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I was confident before, but now...",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I was confident before, but now..."
+        }
+      ]
+    },
+    {
+      "id": 173089,
+      "type": "message",
+      "date": "2024-10-28T09:34:12",
+      "date_unixtime": "1730088252",
+      "edited": "2024-10-28T09:34:59",
+      "edited_unixtime": "1730088299",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "First believe in yourself \nIf you could do the exam you can do the interview too\nA lot of people couldn't get through the exam but you did, just like that interview will go good too\nI believe in you and have hopes on you\nSo plz believe in yourself first \nNow \ud83d\ude47\u200d\u2640",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "First believe in yourself \nIf you could do the exam you can do the interview too\nA lot of people couldn't get through the exam but you did, just like that interview will go good too\nI believe in you and have hopes on you\nSo plz believe in yourself first \nNow \ud83d\ude47\u200d\u2640"
+        }
+      ]
+    },
+    {
+      "id": 173090,
+      "type": "message",
+      "date": "2024-10-28T09:34:25",
+      "date_unixtime": "1730088265",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Whatever happens next, will be for good and god's grace",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Whatever happens next, will be for good and god's grace"
+        }
+      ]
+    },
+    {
+      "id": 173091,
+      "type": "message",
+      "date": "2024-10-28T09:34:47",
+      "date_unixtime": "1730088287",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Try your best and leave everything else to god",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Try your best and leave everything else to god"
+        }
+      ]
+    },
+    {
+      "id": 173092,
+      "type": "message",
+      "date": "2024-10-28T09:35:04",
+      "date_unixtime": "1730088304",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Yeah",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah"
+        }
+      ]
+    },
+    {
+      "id": 173093,
+      "type": "message",
+      "date": "2024-10-28T09:35:08",
+      "date_unixtime": "1730088308",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Let's see",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Let's see"
+        }
+      ]
+    },
+    {
+      "id": 173094,
+      "type": "message",
+      "date": "2024-10-28T09:35:19",
+      "date_unixtime": "1730088319",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It'll be good \ud83e\udd1e",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It'll be good \ud83e\udd1e"
+        }
+      ]
+    },
+    {
+      "id": 173095,
+      "type": "message",
+      "date": "2024-10-28T09:35:42",
+      "date_unixtime": "1730088342",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173089,
+      "text": "U wrote gave hopes on u \ud83d\ude0c\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U wrote gave hopes on u \ud83d\ude0c\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173096,
+      "type": "message",
+      "date": "2024-10-28T09:35:48",
+      "date_unixtime": "1730088348",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I read it \ud83d\ude0c\ud83d\ude0c",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I read it \ud83d\ude0c\ud83d\ude0c"
+        }
+      ]
+    },
+    {
+      "id": 173097,
+      "type": "message",
+      "date": "2024-10-28T09:36:14",
+      "date_unixtime": "1730088374",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Only if you are confident at first, the interview will go good\nConfidence is the main requirement for an interview.\nDon't think whether you will pass or not\nJust think that you need to do your best and be confident",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Only if you are confident at first, the interview will go good\nConfidence is the main requirement for an interview.\nDon't think whether you will pass or not\nJust think that you need to do your best and be confident"
+        }
+      ]
+    },
+    {
+      "id": 173098,
+      "type": "message",
+      "date": "2024-10-28T09:36:20",
+      "date_unixtime": "1730088380",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 173095,
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173099,
+      "type": "message",
+      "date": "2024-10-28T09:36:35",
+      "date_unixtime": "1730088395",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173097,
+      "text": "I don't have any problem with confidence, I'm not afraid of interview",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I don't have any problem with confidence, I'm not afraid of interview"
+        }
+      ]
+    },
+    {
+      "id": 173100,
+      "type": "message",
+      "date": "2024-10-28T09:36:42",
+      "date_unixtime": "1730088402",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Just of my technical knowledge \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Just of my technical knowledge \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173101,
+      "type": "message",
+      "date": "2024-10-28T09:37:05",
+      "date_unixtime": "1730088425",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I don't have fear of attending the interview or talking to unknown people",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I don't have fear of attending the interview or talking to unknown people"
+        }
+      ]
+    },
+    {
+      "id": 173102,
+      "type": "message",
+      "date": "2024-10-28T09:37:11",
+      "date_unixtime": "1730088431",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 173100,
+      "text": "Believe in yourself \nYou have studied these many yrs \nIt will go good\nIdk abt you but I believe in you",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Believe in yourself \nYou have studied these many yrs \nIt will go good\nIdk abt you but I believe in you"
+        }
+      ]
+    },
+    {
+      "id": 173103,
+      "type": "message",
+      "date": "2024-10-28T09:37:14",
+      "date_unixtime": "1730088434",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude12\ud83d\ude12",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude12\ud83d\ude12"
+        }
+      ]
+    },
+    {
+      "id": 173104,
+      "type": "message",
+      "date": "2024-10-28T09:37:24",
+      "date_unixtime": "1730088444",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173102,
+      "text": "Studied \ud83d\ude05\ud83d\ude05",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Studied \ud83d\ude05\ud83d\ude05"
+        }
+      ]
+    },
+    {
+      "id": 173105,
+      "type": "message",
+      "date": "2024-10-28T09:37:30",
+      "date_unixtime": "1730088450",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Yeah whatever, let it be",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah whatever, let it be"
+        }
+      ]
+    },
+    {
+      "id": 173106,
+      "type": "message",
+      "date": "2024-10-28T09:37:30",
+      "date_unixtime": "1730088450",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 173104,
+      "text": "Yes you did",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes you did"
+        }
+      ]
+    },
+    {
+      "id": 173107,
+      "type": "message",
+      "date": "2024-10-28T09:37:35",
+      "date_unixtime": "1730088455",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It'll be good \u270c\ufe0f\u270c\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It'll be good \u270c\ufe0f\u270c\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 173108,
+      "type": "message",
+      "date": "2024-10-28T09:37:41",
+      "date_unixtime": "1730088461",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 173107,
+      "text": "Yes \ud83d\ude01\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes \ud83d\ude01\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173109,
+      "type": "message",
+      "date": "2024-10-28T09:37:45",
+      "date_unixtime": "1730088465",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "U don't have class?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U don't have class?"
+        }
+      ]
+    },
+    {
+      "id": 173110,
+      "type": "message",
+      "date": "2024-10-28T09:37:50",
+      "date_unixtime": "1730088470",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am in class \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am in class \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173111,
+      "type": "message",
+      "date": "2024-10-28T09:37:57",
+      "date_unixtime": "1730088477",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8"
+        }
+      ]
+    },
+    {
+      "id": 173112,
+      "type": "message",
+      "date": "2024-10-28T09:38:01",
+      "date_unixtime": "1730088481",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83d\ude44\ud83d\ude22",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude44\ud83d\ude22"
+        }
+      ]
+    },
+    {
+      "id": 173113,
+      "type": "message",
+      "date": "2024-10-28T09:38:16",
+      "date_unixtime": "1730088496",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "No teaching? \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "No teaching? \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173114,
+      "type": "message",
+      "date": "2024-10-28T09:38:21",
+      "date_unixtime": "1730088501",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Teaching",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Teaching"
+        }
+      ]
+    },
+    {
+      "id": 173115,
+      "type": "message",
+      "date": "2024-10-28T09:38:22",
+      "date_unixtime": "1730088502",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83e\udd72\ud83e\udd72",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83e\udd72\ud83e\udd72"
+        }
+      ]
+    },
+    {
+      "id": 173116,
+      "type": "message",
+      "date": "2024-10-28T09:38:25",
+      "date_unixtime": "1730088505",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\ude12\ud83d\ude12",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude12\ud83d\ude12"
+        }
+      ]
+    },
+    {
+      "id": 173117,
+      "type": "message",
+      "date": "2024-10-28T09:38:32",
+      "date_unixtime": "1730088512",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Focus in class then",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Focus in class then"
+        }
+      ]
+    },
+    {
+      "id": 173118,
+      "type": "message",
+      "date": "2024-10-28T09:38:36",
+      "date_unixtime": "1730088516",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Bye \ud83d\udc4b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bye \ud83d\udc4b"
+        }
+      ]
+    },
+    {
+      "id": 173119,
+      "type": "message",
+      "date": "2024-10-28T09:38:39",
+      "date_unixtime": "1730088519",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Okay \ud83e\udd72\ud83d\ude4a",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Okay \ud83e\udd72\ud83d\ude4a"
+        }
+      ]
+    },
+    {
+      "id": 173120,
+      "type": "message",
+      "date": "2024-10-28T09:38:42",
+      "date_unixtime": "1730088522",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Tata",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Tata"
+        }
+      ]
+    },
+    {
+      "id": 173121,
+      "type": "message",
+      "date": "2024-10-28T09:38:43",
+      "date_unixtime": "1730088523",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Take care",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Take care"
+        }
+      ]
+    },
+    {
+      "id": 173122,
+      "type": "message",
+      "date": "2024-10-28T09:38:49",
+      "date_unixtime": "1730088529",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Text you later\nTake care \u263a\ufe0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Text you later\nTake care \u263a\ufe0f"
+        }
+      ]
+    },
+    {
+      "id": 173123,
+      "type": "message",
+      "date": "2024-10-28T09:39:01",
+      "date_unixtime": "1730088541",
+      "edited": "2024-10-28T09:43:34",
+      "edited_unixtime": "1730088814",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "\ud83d\udc4b\ud83d\udc4b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc4b\ud83d\udc4b"
+        }
+      ]
+    },
+    {
+      "id": 173160,
+      "type": "message",
+      "date": "2024-10-29T09:27:40",
+      "date_unixtime": "1730174260",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All the best",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best"
+        }
+      ]
+    },
+    {
+      "id": 173161,
+      "type": "message",
+      "date": "2024-10-29T09:27:43",
+      "date_unixtime": "1730174263",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "For today",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "For today"
+        }
+      ]
+    },
+    {
+      "id": 173162,
+      "type": "message",
+      "date": "2024-10-29T09:28:38",
+      "date_unixtime": "1730174318",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It's not Today",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's not Today"
+        }
+      ]
+    },
+    {
+      "id": 173163,
+      "type": "message",
+      "date": "2024-10-29T09:28:52",
+      "date_unixtime": "1730174332",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "It'll be either tomorrow, or next week",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It'll be either tomorrow, or next week"
+        }
+      ]
+    },
+    {
+      "id": 173164,
+      "type": "message",
+      "date": "2024-10-29T09:29:06",
+      "date_unixtime": "1730174346",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Will know today when is it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Will know today when is it"
+        }
+      ]
+    },
+    {
+      "id": 173165,
+      "type": "message",
+      "date": "2024-10-29T11:49:39",
+      "date_unixtime": "1730182779",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173164,
+      "text": "It is tomorrow",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It is tomorrow"
+        }
+      ]
+    },
+    {
+      "id": 173166,
+      "type": "message",
+      "date": "2024-10-29T13:39:22",
+      "date_unixtime": "1730189362",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Ohh okay \ud83d\ude01\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ohh okay \ud83d\ude01\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173167,
+      "type": "message",
+      "date": "2024-10-29T13:39:22",
+      "date_unixtime": "1730189362",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\u2728\u2728",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\u2728\u2728"
+        }
+      ]
+    },
+    {
+      "id": 173168,
+      "type": "message",
+      "date": "2024-10-29T13:39:27",
+      "date_unixtime": "1730189367",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "It will go well",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It will go well"
+        }
+      ]
+    },
+    {
+      "id": 173169,
+      "type": "message",
+      "date": "2024-10-29T13:39:32",
+      "date_unixtime": "1730189372",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Tell me tomorrow how it was",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Tell me tomorrow how it was"
+        }
+      ]
+    },
+    {
+      "id": 173170,
+      "type": "message",
+      "date": "2024-10-29T13:53:31",
+      "date_unixtime": "1730190211",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173169,
+      "text": "Haa",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Haa"
+        }
+      ]
+    },
+    {
+      "id": 173171,
+      "type": "message",
+      "date": "2024-10-29T13:53:34",
+      "date_unixtime": "1730190214",
+      "edited": "2024-10-30T10:49:44",
+      "edited_unixtime": "1730265584",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": [
+        {
+          "type": "link",
+          "text": "https://youtu.be/C7MAqIcM-Sg"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "https://youtu.be/C7MAqIcM-Sg"
+        }
+      ]
+    },
+    {
+      "id": 173176,
+      "type": "message",
+      "date": "2024-10-30T10:49:46",
+      "date_unixtime": "1730265586",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Heey",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Heey"
+        }
+      ]
+    },
+    {
+      "id": 173177,
+      "type": "message",
+      "date": "2024-10-30T10:49:49",
+      "date_unixtime": "1730265589",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "All the best",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "All the best"
+        }
+      ]
+    },
+    {
+      "id": 173178,
+      "type": "message",
+      "date": "2024-10-30T10:49:55",
+      "date_unixtime": "1730265595",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "When is your interview today",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "When is your interview today"
+        }
+      ]
+    },
+    {
+      "id": 173179,
+      "type": "message",
+      "date": "2024-10-30T10:50:09",
+      "date_unixtime": "1730265609",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Text me after interview how it went",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Text me after interview how it went"
+        }
+      ]
+    },
+    {
+      "id": 173180,
+      "type": "message",
+      "date": "2024-10-30T10:50:12",
+      "date_unixtime": "1730265612",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\u2728\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\u2728\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173181,
+      "type": "message",
+      "date": "2024-10-30T19:15:47",
+      "date_unixtime": "1730295947",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173179,
+      "text": "Yeah it's over",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yeah it's over"
+        }
+      ]
+    },
+    {
+      "id": 173182,
+      "type": "message",
+      "date": "2024-10-30T19:15:59",
+      "date_unixtime": "1730295959",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Idk how it went, it's just over \ud83d\ude05\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Idk how it went, it's just over \ud83d\ude05\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173183,
+      "type": "message",
+      "date": "2024-10-30T19:16:06",
+      "date_unixtime": "1730295966",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I don't have much hope though",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I don't have much hope though"
+        }
+      ]
+    },
+    {
+      "id": 173190,
+      "type": "message",
+      "date": "2024-10-31T09:16:34",
+      "date_unixtime": "1730346394",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Anyway it's a relief it's over \ud83d\ude02 \nNow don't think about it\nIf you got through it, its nice \u2728 \nIf you don't then still it's a good experience and there are still many chances left in life and this experience can help\nNow do your work and focus on other things \n\ud83d\ude01\ud83d\ude01\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Anyway it's a relief it's over \ud83d\ude02 \nNow don't think about it\nIf you got through it, its nice \u2728 \nIf you don't then still it's a good experience and there are still many chances left in life and this experience can help\nNow do your work and focus on other things \n\ud83d\ude01\ud83d\ude01\ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173191,
+      "type": "message",
+      "date": "2024-10-31T10:47:35",
+      "date_unixtime": "1730351855",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Yup \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yup \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173192,
+      "type": "message",
+      "date": "2024-10-31T10:48:09",
+      "date_unixtime": "1730351889",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "I'm not that skilled anyway to get job on my very first interview \ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I'm not that skilled anyway to get job on my very first interview \ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173213,
+      "type": "message",
+      "date": "2024-11-01T09:28:46",
+      "date_unixtime": "1730433526",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "reply_to_message_id": 173192,
+      "text": "Most of the people don't go through it at first",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Most of the people don't go through it at first"
+        }
+      ]
+    },
+    {
+      "id": 173214,
+      "type": "message",
+      "date": "2024-11-01T09:28:56",
+      "date_unixtime": "1730433536",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "We all need experience and that's okay and normal \ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "We all need experience and that's okay and normal \ud83d\ude01"
+        }
+      ]
+    },
+    {
+      "id": 173215,
+      "type": "message",
+      "date": "2024-11-01T09:29:06",
+      "date_unixtime": "1730433546",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I am in dance for Diwali celebration",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am in dance for Diwali celebration"
+        }
+      ]
+    },
+    {
+      "id": 173216,
+      "type": "message",
+      "date": "2024-11-01T09:29:09",
+      "date_unixtime": "1730433549",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "It's on Sunday",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It's on Sunday"
+        }
+      ]
+    },
+    {
+      "id": 173217,
+      "type": "message",
+      "date": "2024-11-01T09:29:26",
+      "date_unixtime": "1730433566",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "That's why I didn't see the text \nWhole night we practice and it's too tired \ud83d\ude29",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That's why I didn't see the text \nWhole night we practice and it's too tired \ud83d\ude29"
+        }
+      ]
+    },
+    {
+      "id": 173218,
+      "type": "message",
+      "date": "2024-11-01T09:29:39",
+      "date_unixtime": "1730433579",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "I will send you my dance video on Sunday \ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I will send you my dance video on Sunday \ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f"
+        }
+      ]
+    },
+    {
+      "id": 173219,
+      "type": "message",
+      "date": "2024-11-01T09:29:44",
+      "date_unixtime": "1730433584",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e"
+        }
+      ]
+    },
+    {
+      "id": 173220,
+      "type": "message",
+      "date": "2024-11-01T09:29:46",
+      "date_unixtime": "1730433586",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Good morning",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good morning"
+        }
+      ]
+    },
+    {
+      "id": 173221,
+      "type": "message",
+      "date": "2024-11-01T16:38:45",
+      "date_unixtime": "1730459325",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173215,
+      "text": "Oh cool",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Oh cool"
+        }
+      ]
+    },
+    {
+      "id": 173222,
+      "type": "message",
+      "date": "2024-11-01T16:38:51",
+      "date_unixtime": "1730459331",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "In college?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "In college?"
+        }
+      ]
+    },
+    {
+      "id": 173223,
+      "type": "message",
+      "date": "2024-11-01T16:38:57",
+      "date_unixtime": "1730459337",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Or any other event??",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Or any other event??"
+        }
+      ]
+    },
+    {
+      "id": 173224,
+      "type": "message",
+      "date": "2024-11-01T16:39:11",
+      "date_unixtime": "1730459351",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173218,
+      "text": "\ud83d\ude0c\ud83d\ude0c",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude0c\ud83d\ude0c"
+        }
+      ]
+    },
+    {
+      "id": 173225,
+      "type": "message",
+      "date": "2024-11-02T08:49:32",
+      "date_unixtime": "1730517572",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "In college only",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "In college only"
+        }
+      ]
+    },
+    {
+      "id": 173226,
+      "type": "message",
+      "date": "2024-11-02T08:49:40",
+      "date_unixtime": "1730517580",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "We students organized",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "We students organized"
+        }
+      ]
+    },
+    {
+      "id": 173227,
+      "type": "message",
+      "date": "2024-11-02T08:49:48",
+      "date_unixtime": "1730517588",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Not clg authorities \ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Not clg authorities \ud83d\ude02"
+        }
+      ]
+    },
+    {
+      "id": 173228,
+      "type": "message",
+      "date": "2024-11-02T08:49:54",
+      "date_unixtime": "1730517594",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "We simply dance",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "We simply dance"
+        }
+      ]
+    },
+    {
+      "id": 173229,
+      "type": "message",
+      "date": "2024-11-02T08:49:57",
+      "date_unixtime": "1730517597",
+      "from": "Liniya",
+      "from_id": "user5065274446",
+      "text": "Good morning \ud83c\udf1e",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good morning \ud83c\udf1e"
+        }
+      ]
+    },
+    {
+      "id": 173231,
+      "type": "message",
+      "date": "2024-11-02T10:57:25",
+      "date_unixtime": "1730525245",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "text": "Good morning \ud83d\ude0c",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good morning \ud83d\ude0c"
+        }
+      ]
+    },
+    {
+      "id": 173232,
+      "type": "message",
+      "date": "2024-11-02T10:57:30",
+      "date_unixtime": "1730525250",
+      "from": "Aswin",
+      "from_id": "user1220299992",
+      "reply_to_message_id": 173228,
+      "text": "\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    }
+  ]
+}
